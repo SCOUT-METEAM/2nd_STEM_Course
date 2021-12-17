@@ -8,6 +8,7 @@ https://github.com/adafruit/Adafruit-GFX-Library
 <br>
 <h1>Coding</h1>
 <pre><code>
+
 #include <SPI.h> //Serial Peripheral Interface (SPI) is a synchronous serial data protocol 
 #include <Wire.h> //Communicate with I2C / TWI devices.
 
