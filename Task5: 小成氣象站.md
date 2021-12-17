@@ -1,22 +1,23 @@
 
 <h1>Coding</h1>
 <pre><code>
+
 #include <SPI.h> //Serial Peripheral Interface (SPI) is a synchronous serial data protocol 
 #include <Wire.h> //Communicate with I2C / TWI devices.
 
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 
-#include "DHT.h";
+#include "DHT.h"
 
-#define DHTPIN 2;     // Digital pin connected to the DHT sensor
+#define DHTPIN 2     // Digital pin connected to the DHT sensor
 
-#define DHTTYPE DHT11;   // DHT 11
+#define DHTTYPE DHT11  // DHT 11
 
-#define SCREEN_WIDTH 128; // OLED 寬度像素
-#define SCREEN_HEIGHT 64; // OLED 高度像素
+#define SCREEN_WIDTH 128 // OLED 寬度像素
+#define SCREEN_HEIGHT 64 // OLED 高度像素
 
-#define OLED_RESET     4 ;// Reset pin # (or -1 if sharing Arduino reset pin)
+#define OLED_RESET     4 // Reset pin # (or -1 if sharing Arduino reset pin)
 
 DHT dht(DHTPIN, DHTTYPE);  //繼承及建立DHT11物件並命名為dht
 
