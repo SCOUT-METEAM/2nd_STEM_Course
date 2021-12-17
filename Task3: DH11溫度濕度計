@@ -1,4 +1,4 @@
-<pre>
+<pre><code>
 #include "DHT.h"
 
 #define DHTPIN 2     // Digital pin connected to the DHT sensor
@@ -51,4 +51,5 @@ void loop()
   Serial.println(F("°F"));
 
 }
-</pre>
+
+</pre></code>
