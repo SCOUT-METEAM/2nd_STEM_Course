@@ -1,3 +1,13 @@
+<h1>Library</h1>
+<br>
+Please download following library and install it into Arduino IDE first.
+<br>
+https://github.com/adafruit/Adafruit_SSD1306
+<br>
+https://github.com/adafruit/Adafruit-GFX-Library
+<br>
+<h1>Coding</h1>
+<pre><code>
 #include <SPI.h> //Serial Peripheral Interface (SPI) is a synchronous serial data protocol 
 #include <Wire.h> //Communicate with I2C / TWI devices.
 
@@ -112,3 +122,4 @@ void drawingtest(void)
   delay(1000);
 }
  
+</code></pre>
