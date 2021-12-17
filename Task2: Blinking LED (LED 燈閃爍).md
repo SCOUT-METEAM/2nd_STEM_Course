@@ -1,3 +1,6 @@
+<h1>Coding</h1>
+<BR>
+<pre><code>
 const byte LED = 3;  //利用變數LED設定該變數是3(代表3號數位腳位)
 
 //閃爍FUNCTION
@@ -19,3 +22,5 @@ void loop()
 {
 LEDBLINK();
 }
+
+</code></pre>
