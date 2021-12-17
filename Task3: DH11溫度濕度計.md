@@ -1,6 +1,8 @@
 <h1>Library</h1>
-<B>Please download following Arduino Library first</B>
+<B>Please download following Arduino Library first</B><br>
 https://github.com/adafruit/DHT-sensor-library
+<br>
+https://github.com/adafruit/Adafruit_Sensor
 <br>
 <h1>Arduino Coding</h1>
 <br>
