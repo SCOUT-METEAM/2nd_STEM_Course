@@ -4,7 +4,7 @@
 
 #define DHTTYPE DHT11   // DHT 11
 
-DHT dht(DHTPIN, DHTTYPE);
+DHT dht(DHTPIN, DHTTYPE); //繼承及建立DHT11物件並命名為dht
 
 void setup() 
 {
