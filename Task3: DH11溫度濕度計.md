@@ -1,5 +1,5 @@
 <h1>Library</h1>
-<B>Please download following Arduino Library first</B><br>
+<B>Please download following libraries and install it into Arduino IDE first.</B><br>
 https://github.com/adafruit/DHT-sensor-library
 <br>
 https://github.com/adafruit/Adafruit_Sensor
