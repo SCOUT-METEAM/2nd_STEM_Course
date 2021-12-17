@@ -1,12 +1,18 @@
-void setup() 
+const byte LED = 3;
+
+void LEDBLINK()
 {
- pinMode(13, OUTPUT);
+digitalWrite(LED, HIGH);
+delay(1000);
+digitalWrite(LED, LOW);
+delay(1000);
 }
 
-void loop() 
+void setup()
 {
-  digitalWrite(13, HIGH);   // turn the LED on (HIGH is the voltage level)
-  delay(100);                     // wait for a second
-  digitalWrite(13, LOW);    // turn the LED off by making the voltage LOW
-  delay(100); 
+pinMode(LED, OUTPUT);
+}
+void loop()
+{
+LEDBLINK();
 }
