@@ -3,7 +3,7 @@
 <B>1st Meteorological STEM Workshop</B>
 <br>
 <table>
-<tr><td>日 期</td><td>星 期 </td><td>時 間</td><td>地 點</td>
+<tr><td><B>日 期</B></td><td><B>星 期</B></td><td><B>時 間</B></td><td><B>地 點</B></td>
 </tr>
 <tr><td>2022 年 3 月 11 日 </td><td>五 </td><td>1900－2200 </td><td>香港童軍中心</td></tr>
 <tr><td>2022 年 3 月 18 日 </td><td>五 </td><td>1900－2200 </td><td>香港童軍中心</td></tr>
