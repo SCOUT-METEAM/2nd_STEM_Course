@@ -1,5 +1,5 @@
 
-<h1>Coding</h1>
+<h1>Arduino Coding</h1>
 <pre><code>
 
 #include <SPI.h> //Serial Peripheral Interface (SPI) is a synchronous serial data protocol 
