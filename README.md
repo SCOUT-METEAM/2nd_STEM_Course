@@ -2,7 +2,6 @@
 <br>
 <B>1st Meteorological STEM Workshop</B>
 <br>
-日 期：<br>
 <table>
 <tr><td>日 期</td><td>星 期 </td><td>時 間</td><td>地 點</td>
 </tr>
