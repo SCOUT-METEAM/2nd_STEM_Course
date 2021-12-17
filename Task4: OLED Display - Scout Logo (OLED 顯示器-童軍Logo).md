@@ -9,7 +9,7 @@ https://github.com/adafruit/Adafruit-GFX-Library
 <h1>Online image2cpp</h1>
 https://github.com/javl/image2cpp
 <br>
-<h1>Coding</h1>
+<h1>Arduino Coding</h1>
 <pre><code>
 
 #include <SPI.h> //Serial Peripheral Interface (SPI) is a synchronous serial data protocol 
