@@ -23,7 +23,7 @@ https://github.com/adafruit/Adafruit-GFX-Library
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
 //自訂圖形，從Image2LCD轉過來的，尺寸是128x64
-static const unsigned char PROGMEM logo_draw[] =
+static const byte PROGMEM logo_draw[] =
 { 
 0X00,0X00,0X00,0X00,0X00,0X00,0X00,0X00,0X00,0X00,0X00,0X00,0X00,0X00,0X00,0X00,
 0X00,0X00,0X00,0X00,0X00,0X00,0X00,0X00,0X00,0X00,0X00,0X00,0X00,0X00,0X00,0X00,
