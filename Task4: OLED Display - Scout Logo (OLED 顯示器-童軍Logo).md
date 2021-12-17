@@ -1,6 +1,6 @@
 <h1>Library</h1>
 <br>
-Please download following library and install it into Arduino IDE first.
+Please download following libraries and install it into Arduino IDE first.
 <br>
 https://github.com/adafruit/Adafruit_SSD1306
 <br>
