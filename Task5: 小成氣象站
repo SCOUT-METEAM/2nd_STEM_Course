@@ -15,11 +15,11 @@
 
 #define OLED_RESET     4 // Reset pin # (or -1 if sharing Arduino reset pin)
 
-DHT dht(DHTPIN, DHTTYPE);
+DHT dht(DHTPIN, DHTTYPE);  //繼承及建立DHT11物件並命名為dht
 
 // 設定OLED
 
-Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
+Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET); //繼承及建立OLED物件並命名為display
 
 //自訂圖形，從Image2LCD轉過來的，尺寸是128x64
 static const unsigned char PROGMEM logo_draw[] =
@@ -117,13 +117,12 @@ void loop()
   delay(2000);
   display.clearDisplay();
   delay(2000);
+  
   float h = dht.readHumidity();
 
   float t = dht.readTemperature();
 
   float f = dht.readTemperature(true);
-
-
 
   float hif = dht.computeHeatIndex(f, h);
 
