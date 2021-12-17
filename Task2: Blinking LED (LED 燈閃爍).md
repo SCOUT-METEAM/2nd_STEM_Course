@@ -1,4 +1,4 @@
-<h1>Coding</h1>
+<h1>Arduino Coding</h1>
 <BR>
 <pre><code>
 const byte LED = 3;  //利用變數LED設定該變數是3(代表3號數位腳位)
