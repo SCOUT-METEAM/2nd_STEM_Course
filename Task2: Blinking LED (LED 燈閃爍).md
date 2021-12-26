@@ -12,7 +12,7 @@ digitalWrite(LED, LOW);  //設定那個腳位輸出是底(沒有)電壓底
 delay(1000);
 }
 
-//執行閃爍
+//執行LED閃爍
 void setup()
 {
 pinMode(LED, OUTPUT);  //設定那個腳位是輸出
