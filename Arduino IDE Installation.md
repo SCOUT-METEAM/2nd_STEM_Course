@@ -21,3 +21,6 @@ Arduino IDE 是一個程式編寫軟件，由ARDUINO 官方提供。我們需要
 雙按桌面捷徑，啟動Arduino IDE。
 
 當安裝了後，打開程式，便如下圖。
+
+<br>
+Ref: https://www.arduino.cc/en/Guide/Windows#proceed-with-board-specific-instructions
