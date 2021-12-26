@@ -7,12 +7,10 @@ Arduino IDE 是一個程式編寫軟件，由ARDUINO 官方提供。我們需要
 <br><br>
 如果是使用WINDOW OS，可以下載並安裝"Windows Win 7 and newer"版本。
 
-選了Windows Win 7 and newer 後，按下JUST DOWNLOAD 便可下載並安
-裝。
+選了Windows Win 7 and newer 後，按下JUST DOWNLOAD 便可下載並安裝。
 
 <h2>B) Arduino IDE 安裝</h2>
-雙按已下載arduino-1.8.19-windows.exe 檔案便會出現以下畫面。再按
-下”I Agree” 。
+雙按已下載arduino-1.8.19-windows.exe 檔案便會出現以下畫面。再按下”I Agree” 。
 
 全選所有安裝及按下”NEXT” 。
 
