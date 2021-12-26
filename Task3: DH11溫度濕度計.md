@@ -7,11 +7,11 @@ https://github.com/adafruit/Adafruit_Sensor
 <h1>Arduino Coding</h1>
 <br>
 <pre><code>
-#include "DHT.h"
+#include "DHT.h"     //引入DHT11 Library
 
-#define DHTPIN 2     // Digital pin connected to the DHT sensor
+#define DHTPIN 2     // 設定連接DHT11感應器的數位腳位
 
-#define DHTTYPE DHT11   // DHT 11
+#define DHTTYPE DHT11   // 設定DHT 感應器類型
 
 DHT dht(DHTPIN, DHTTYPE); //繼承及建立DHT11物件並命名為dht
 
