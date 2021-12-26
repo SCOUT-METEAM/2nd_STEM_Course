@@ -6,7 +6,7 @@ https://github.com/adafruit/Adafruit_Sensor
 <br>
 <h1>Arduino Coding</h1>
 <br>
-以下CODING是來自Adafruit DHT Sensor Example
+以下CODING是來自Adafruit DHT Sensor Example，請同時對照Adafruit Example及Adafruit DHT11 Libraries檔案(DHT.h及DHT.cpp)一同學習。
 <br>
 <br>
 <pre><code>
