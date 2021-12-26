@@ -20,7 +20,7 @@ void setup()
   Serial.begin(115200);
   Serial.println(F("DHTxx test!"));
 
-  dht.begin();
+  dht.begin();  //dht繼承了CLASS DHT，使用CLASS DHT內其中一個function, 名叫begin()。此function是啟動DHT11。
 
 }
 
@@ -29,7 +29,7 @@ void loop()
 
   delay(2000);
 
-  float h = dht.readHumidity();
+  float h = dht.readHumidity(); //將濕度資料放入變數h作之後使用。變數h資料型態是float。
 
   float t = dht.readTemperature();
 
@@ -43,6 +43,7 @@ void loop()
 
   // Compute heat index in Fahrenheit (the default)
   float hif = dht.computeHeatIndex(f, h);
+  
   // Compute heat index in Celsius (isFahreheit = false)
   float hic = dht.computeHeatIndex(t, h, false);
 
