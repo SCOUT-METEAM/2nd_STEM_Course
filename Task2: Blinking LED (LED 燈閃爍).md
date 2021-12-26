@@ -20,7 +20,7 @@ pinMode(LED, OUTPUT);  //設定那個腳位是輸出
 
 void loop()
 {
-LEDBLINK();
+LEDBLINK();             //Call 閃爍FUNCTION
 }
 
 </code></pre>
