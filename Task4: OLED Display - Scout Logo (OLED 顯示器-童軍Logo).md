@@ -94,22 +94,24 @@ static const byte PROGMEM logo_draw[] =
 0X00,0X00,0X00,0X00,0X00,0X00,0X00,0X00,0X00,0X00,0X00,0X00,0X00,0X00,0X00,0X00,
 };
 
-void setup() {
+void setup() 
+{
   Serial.begin(115200);
+  
   // 偵測是否安裝好OLED了
-  if(!display.begin(SSD1306_SWITCHCAPVCC, 0x3C)) { // 一般1306 OLED的位址都是0x3C
+  if(!display.begin(SSD1306_SWITCHCAPVCC, 0x3C)) // 一般1306 OLED的位址都是0x3C
+  { 
     Serial.println(F("SSD1306 allocation failed"));
     for(;;); // Don't proceed, loop forever
   }
 
   // 顯示Adafruit的LOGO，算是開機畫面
- // display.display();
- // delay(1000); // 停1秒
+  // display.display();
+  // delay(1000);           // 停1秒
 
-  // 清除畫面
-  display.clearDisplay();
+  display.clearDisplay();  // 清除畫面
 
-  drawingtest();    // 顯示圖形
+  drawingtest();          // 顯示圖形
 
 }
 
@@ -121,8 +123,10 @@ void loop()
 void drawingtest(void) 
 {
   display.clearDisplay();
+  
   //顯示圖形，x,y,圖形文字,寬,高,1:OLED預設的顏色(這個會依該OLED的顏色來決定)
   display.drawBitmap(0,0,logo_draw, 128, 64, 1);
+  
   display.display();  // 要有這行才會把文字顯示出來
   delay(1000);
 }
