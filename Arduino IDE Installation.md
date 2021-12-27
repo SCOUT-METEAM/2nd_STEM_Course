@@ -7,7 +7,7 @@
 1. 如果是使用WINDOW OS，可以下載並安裝<B>"Windows Win 7 and newer"</B>版本。
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AIDE01.png" alt="right">
 <br>
-2. 選了<B>Windows Win 7 and newer</B>後，按下<u>JUST DOWNLOAD</u>便可下載並安裝。<br>
+2. 選了<B>Windows Win 7 and newer</B>後，按下<u>JUST DOWNLOAD</u>便可下載並安裝。<p><br>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AIDE02.png" alt="right">
 <br>
 <h2>B) Arduino IDE 安裝</h2>
