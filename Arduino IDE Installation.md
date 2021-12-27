@@ -1,6 +1,6 @@
 
 <h1>Arduino IDE Installation</h1>
-<br>Arduino IDE 是一個程式編寫軟件，由ARDUINO 官方提供。我們需要透過Arduino IDE編寫程式，上傳到使Arduino 硬件，使到Arduino 控制板運作。 <br>
+<br>Arduino IDE 是一個程式編寫軟件，由ARDUINO 官方提供。我們需要透過Arduino IDE編寫程式，上傳到Arduino硬件，使到Arduino控制板能夠運作。 <br>
 <h2>A) Arduino IDE 下載</h2>
 <br>Arduino IDE可以到以下網址下載: <a href="https://www.arduino.cc/en/Main/Software" target="_blank">https://www.arduino.cc/en/Main/Software</a>
 <br><br>
