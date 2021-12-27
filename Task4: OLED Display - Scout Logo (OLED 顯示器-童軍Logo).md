@@ -129,6 +129,6 @@ void drawingtest(void)
  
 </code></pre>
 
-Ref:<p>
+Ref:<br>
 PROGMEM - Store data in flash (program) memory instead of SRAM. <br>
 https://www.arduino.cc/reference/en/language/variables/utilities/progmem/
