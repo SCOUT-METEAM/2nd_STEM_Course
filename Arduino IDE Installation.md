@@ -4,9 +4,9 @@
 <h2>A) Arduino IDE 下載</h2>
 <br>Arduino IDE可以到以下網址下載: <a href="https://www.arduino.cc/en/Main/Software" target="_blank">https://www.arduino.cc/en/Main/Software</a>
 <br><br>
-如果是使用WINDOW OS，可以下載並安裝"Windows Win 7 and newer"版本。
+如果是使用WINDOW OS，可以下載並安裝<B>"Windows Win 7 and newer"</B>版本。
 
-選了Windows Win 7 and newer 後，按下JUST DOWNLOAD 便可下載並安裝。
+選了<B>Windows Win 7 and newer</B>後，按下JUST DOWNLOAD 便可下載並安裝。
 
 <h2>B) Arduino IDE 安裝</h2>
 雙按已下載arduino-1.8.19-windows.exe 檔案便會出現以下畫面。再按下”I Agree” 。
