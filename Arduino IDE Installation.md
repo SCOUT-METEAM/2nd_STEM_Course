@@ -4,7 +4,7 @@
 <h2>A) Arduino IDE 下載</h2>
 <br>Arduino IDE可以到以下網址下載: <a href="https://www.arduino.cc/en/Main/Software" target="_blank">https://www.arduino.cc/en/Main/Software</a>
 <br><br>
-1. 如果是使用WINDOW OS，可以下載並安裝<B>"Windows Win 7 and newer"</B>版本。<p>
+1. 如果是使用<B>WINDOW OS</B>，可以下載並安裝<B>"Windows Win 7 and newer"</B>版本。<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AIDE01.png" alt="right">
 <br>
 2. 選了<B>Windows Win 7 and newer</B>後，按下<B>JUST DOWNLOAD</B>便可下載並安裝。<p>
