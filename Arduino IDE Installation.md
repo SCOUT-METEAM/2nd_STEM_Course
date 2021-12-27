@@ -22,7 +22,7 @@
 5. 雙按桌面捷徑，啟動Arduino IDE。<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AIDE07.png" alt="right"><br>
 6. 當安裝了後，打開程式，便如下圖。<p>
-
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AIDE08.png" alt="right"><br>
 <br>
 Ref: <br>
 Install the Arduino Software (IDE) on Windows PCs<br>
