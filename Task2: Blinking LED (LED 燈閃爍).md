@@ -6,9 +6,9 @@ const byte LED = 3;  //利用變數LED設定該變數是3(代表3號數位腳位
 //閃爍FUNCTION
 void LEDBLINK()
 {
-digitalWrite(LED, HIGH); //設定那個腳位輸出是高電壓底
+digitalWrite(LED, HIGH); //設定那個腳位輸出是高電壓
 delay(1000);             //停止, 以微秒為單位
-digitalWrite(LED, LOW);  //設定那個腳位輸出是底(沒有)電壓底
+digitalWrite(LED, LOW);  //設定那個腳位輸出是底(沒有)電壓
 delay(1000);
 }
 
