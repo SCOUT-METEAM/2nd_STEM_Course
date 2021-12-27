@@ -12,16 +12,16 @@
 <br>
 <h2>B) Arduino IDE 安裝</h2>
 雙按已下載arduino-1.8.19-windows.exe 檔案便會出現以下畫面。再按下”I Agree” 。<p>
-<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AIDE03.png" alt="right">
-全選所有安裝及按下”NEXT” 。
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AIDE03.png" alt="right"><br>
+全選所有安裝及按下”NEXT” 。<p>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AIDE04.png" alt="right"><br>
+留意安裝路徑及記下，因為日後需要尋找有關路徑。按下”INSTALL”<p>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AIDE05.png" alt="right"><br>
+安裝完成後，按下”CLOSE” 。<p>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AIDE06.png" alt="right"><br>
+雙按桌面捷徑，啟動Arduino IDE。<p>
 
-留意安裝路徑及記下，因為日後需要尋找有關路徑。按下”INSTALL”
-
-安裝完成後，按下”CLOSE” 。
-
-雙按桌面捷徑，啟動Arduino IDE。
-
-當安裝了後，打開程式，便如下圖。
+當安裝了後，打開程式，便如下圖。<p>
 
 <br>
 Ref: <br>
