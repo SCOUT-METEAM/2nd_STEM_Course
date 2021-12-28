@@ -15,9 +15,9 @@
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AIDE03.png" alt="right"><br>
 2. 全選所有安裝及按下<B>”NEXT”</B> 。<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AIDE04.png" alt="right"><br>
-3. 留意安裝路徑及記下，因為日後需要尋找有關路徑。按下<B>”INSTALL”</B><p>
+3. 留意安裝路徑及記下，因為日後需要尋找有關路徑。按下<B>”INSTALL”。</B><p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AIDE05.png" alt="right"><br>
-4. 安裝完成後，按下<B>”CLOSE”</B>。<p>
+4. 安裝完成後，按下<B>”CLOSE”。</B>。<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AIDE06.png" alt="right"><br>
 5. 雙按桌面捷徑，啟動Arduino IDE。<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AIDE07.png" alt="right"><br>
