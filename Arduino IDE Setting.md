@@ -1,5 +1,5 @@
 <h1>Arduino IDE Setting</h1>
-
+當我們在Arduion IDE內編寫好程式，需要上傳去Arduino 控制板。上傳前需要設定所屬控制板類型及那個連接埠(COM PORT)<p>
 1. 使用USB數據線，連接Arduino UNO3 控制板與電腦。<p>
 2. 在Arduino IDE內，選Tools\Board\Arduion AVR Boards，並選擇Arduino Uno。這是設定我們現正使用那一塊控制板。<p>
 
