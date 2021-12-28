@@ -9,6 +9,8 @@
 <h1>Connection Map 連接圖</h1><p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/T02LED.png" alt="right"><p>
 
+ Arduino UNO3腳位: 3 
+  
 <h1>Arduino Coding 程式碼</h1>
 <BR>
 <pre><code>
