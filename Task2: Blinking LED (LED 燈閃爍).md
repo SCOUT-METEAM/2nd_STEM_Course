@@ -15,7 +15,7 @@
 4) 10CM 黑色杜邦線 X 2
 5) 220Ω電阻 X 1
 6) LED 紅色燈 X 1
-7) 9V 電池盒/電線X 1
+7) 9V 電池盒/電線X 1 或接駁電腦USB
 
 <h1>Connection Map 連接圖</h1><p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/T02LED.png" alt="right"><p>
