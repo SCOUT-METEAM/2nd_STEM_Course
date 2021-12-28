@@ -1,10 +1,10 @@
-<h1>LED 閃爍</h1><p>
+<h1>LED 燈閃爍</h1><p>
 
 目的:
 1) 認識完整電路(Complete Circuit)及電阻。
 2) 學習如何在Arduino IDE 編寫程式，使LED 燈閃爍。
 3) 學習如何將已編寫好的程式上傳到Arduino 控制板。
-4) 認識程式中Variable(變數)，Function(函數)，pinMode()，digitalWrite()等。
+4) 認識程式中變數(Variable)，函數(Function)，pinMode()，digitalWrite()等。
 
 <h1>Connection Map 連接圖</h1><p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/T02LED.png" alt="right"><p>
