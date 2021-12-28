@@ -1,7 +1,7 @@
 <h1>Connection Map 連接圖</h1><p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/T02LED.png" alt="right"><p>
 
-<h1>Arduino Coding</h1>
+<h1>Arduino Coding 程式碼</h1>
 <BR>
 <pre><code>
 const byte LED = 3;  //利用變數LED設定該變數是3(代表3號數位腳位)
