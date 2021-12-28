@@ -2,4 +2,4 @@
 
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AIDES01.png" alt="right"><p>
 
-<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AIDES01.png" alt="right"><p>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AIDES02.png" alt="right"><p>
