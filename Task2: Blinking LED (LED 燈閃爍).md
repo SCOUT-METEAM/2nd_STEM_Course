@@ -1,6 +1,6 @@
 <h1>LED 燈閃爍</h1><p>
 
-目的:
+ <B>目的:</B>
 1) 認識完整電路(Complete Circuit)及電阻。
 2) 學習如何在Arduino IDE 編寫程式，使LED 燈閃爍。
 3) 學習如何將已編寫好的程式上傳到Arduino 控制板。
@@ -8,7 +8,7 @@
  
 <p>
  
-工具:
+ <B>工具:</B>
 1) Arduino UNO Rev3 控制板X 1
 2) 麪包板 X 1
 3) 10CM 紅色杜邦線 X 1
