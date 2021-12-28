@@ -1,7 +1,7 @@
 <h1>Arduino IDE Setting</h1>
 
 1. 使用USB數據線，連接Arduino UNO3 控制板與電腦。<p>
-2. 在Arduino IDE內，選Tools\Board，並選擇Arduino/Genuino Uno。這是設定我們現正使用那一塊控制板。<p>
+2. 在Arduino IDE內，選Tools\Board\Arduion AVR Boards，並選擇Arduino Uno。這是設定我們現正使用那一塊控制板。<p>
 
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AIDES01.png" alt="right"><p>
 
