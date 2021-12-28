@@ -1,4 +1,4 @@
-<h1>Connection Map</h1><p>
+<h1>Connection Map 連接圖</h1><p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/T02LED.png" alt="right"><p>
 
 <h1>Arduino Coding</h1>
