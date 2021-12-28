@@ -9,7 +9,7 @@
 <h1>Connection Map 連接圖</h1><p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/T02LED.png" alt="right"><p>
 
- <B>Arduino UNO3腳位: GND，3</B> 
+ <B>Arduino UNO3使用腳位: GND，3</B> 
   
 <h1>Arduino Coding 程式碼</h1>
 <BR>
