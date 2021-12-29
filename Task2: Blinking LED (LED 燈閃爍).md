@@ -21,7 +21,7 @@
  
  <table>
   <tr><td colspan="3"><B>LED 燈規格</B></td></tr>
-  <tr><B><td>LED燈</td><td>工作電壓範圍</td><td>工作電流</td></B></tr>
+  <tr><td>LED燈</td><td>工作電壓範圍</td><td>工作電流</td></tr>
  <tr><td>紅光</td><td> 1.8~2.2V</td><td> 30mA</td></tr>
  <tr><td>黃光</td><td> 2.0~2.4V</td><td> 30mA</td></tr>
  <tr><td>綠光</td><td> 2.2~2.8V</td><td> 25mA</td></tr>
