@@ -17,6 +17,24 @@
 6) LED 紅色燈 X 1
 7) 9V 電池盒/電線X 1 或接駁電腦USB
 
+ <h1>Resistor電阻</h1><p>
+ 
+ LED 規格<br>
+ <table>
+  <tr><td>LED燈</td><td>工作電壓範圍</td><td>工作電流</td></tr>
+ <tr>紅光 1.8~2.2V 30mA</tr>
+ <tr>黃光 2.0~2.4V 30mA</tr>
+ <tr>綠光 2.2~2.8V 25mA</tr>
+ </table>
+ 
+ 從以上LED 規格表格，可看出LED 燈大約使用2V及20mA工作電流。<P>
+  
+ Arduino UNO3控制板的Digital腳位輸出電壓是5V，所以多出的電壓5V-2V=3V。用以下公式便可以計算出電阻值。<P>
+  
+ V=IR
+ 3 = 0.02R
+ R=150
+ 
 <h1>Connection Map 連接圖</h1><p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/T02LED.png" alt="right"><p>
 
