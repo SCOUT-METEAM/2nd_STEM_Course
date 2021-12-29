@@ -20,7 +20,7 @@
  <h1>Resistor電阻</h1><p>
  
  <table>
-  <tr><td>LED 燈規格</td></tr>
+ <tr><td colspan="3">LED 燈規格</td></tr>
  <tr><td>LED燈</td><td>工作電壓範圍</td><td>工作電流</td></tr>
  <tr><td>紅光</td><td> 1.8~2.2V</td><td> 30mA</td></tr>
  <tr><td>黃光</td><td> 2.0~2.4V</td><td> 30mA</td></tr>
