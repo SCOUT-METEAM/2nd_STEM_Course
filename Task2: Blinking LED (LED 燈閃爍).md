@@ -33,7 +33,7 @@
   
  <B>V=IR</B><br>
  3 = 0.02R<br>
- R=150<br>
+ R=150Ω<br>
  
 <h1>Connection Map 連接圖</h1><p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/T02LED.png" alt="right"><p>
