@@ -21,10 +21,10 @@
  
  LED 規格<br>
  <table>
-  <tr><td>LED燈</td><td>工作電壓範圍</td><td>工作電流</td></tr>
- <tr>紅光 1.8~2.2V 30mA</tr>
- <tr>黃光 2.0~2.4V 30mA</tr>
- <tr>綠光 2.2~2.8V 25mA</tr>
+ <tr><td>LED燈</td><td>工作電壓範圍</td><td>工作電流</td></tr>
+ <tr><td>紅光</td><td> 1.8~2.2V</td><td> 30mA</td></tr>
+ <tr><td>黃光</td><td> 2.0~2.4V</td><td> 30mA</td></tr>
+ <tr><td>綠光</td><td> 2.2~2.8V</td><td> 25mA</td></tr>
  </table>
  
  從以上LED 規格表格，可看出LED 燈大約使用2V及20mA工作電流。<P>
