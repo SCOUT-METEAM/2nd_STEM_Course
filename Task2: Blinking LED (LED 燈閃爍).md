@@ -31,9 +31,9 @@
   
  Arduino UNO3控制板的Digital腳位輸出電壓是5V，所以多出的電壓5V-2V=3V。用以下公式便可以計算出電阻值。<P>
   
- V=IR
- 3 = 0.02R
- R=150
+ V=IR<br>
+ 3 = 0.02R<br>
+ R=150<br>
  
 <h1>Connection Map 連接圖</h1><p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/T02LED.png" alt="right"><p>
