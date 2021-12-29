@@ -21,7 +21,7 @@
  
  <table>
   <tr><td colspan="3"><B>LED 燈規格</B></td></tr>
- <tr><td>LED燈</td><td>工作電壓範圍</td><td>工作電流</td></tr>
+  <tr><B><td>LED燈</td><td>工作電壓範圍</td><td>工作電流</td></B></tr>
  <tr><td>紅光</td><td> 1.8~2.2V</td><td> 30mA</td></tr>
  <tr><td>黃光</td><td> 2.0~2.4V</td><td> 30mA</td></tr>
  <tr><td>綠光</td><td> 2.2~2.8V</td><td> 25mA</td></tr>
@@ -31,7 +31,7 @@
   
  Arduino UNO3控制板的Digital腳位輸出電壓是5V，所以多出的電壓5V-2V=3V。用以下公式便可以計算出電阻值。<P>
   
- V=IR<br>
+ <B>V=IR</B><br>
  3 = 0.02R<br>
  R=150<br>
  
