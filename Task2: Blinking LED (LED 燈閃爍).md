@@ -1,4 +1,4 @@
-<h1>LED 燈閃爍</h1><p>
+<h1>LED二極發光管(燈)閃爍</h1><p>
 
  <B>目的:</B>
 1) 認識完整電路(Complete Circuit)及電阻。
@@ -19,8 +19,8 @@
 
  <h1>Resistor電阻</h1><p>
  
- LED 規格<br>
  <table>
+ <tr>LED 燈規格</tr>
  <tr><td>LED燈</td><td>工作電壓範圍</td><td>工作電流</td></tr>
  <tr><td>紅光</td><td> 1.8~2.2V</td><td> 30mA</td></tr>
  <tr><td>黃光</td><td> 2.0~2.4V</td><td> 30mA</td></tr>
