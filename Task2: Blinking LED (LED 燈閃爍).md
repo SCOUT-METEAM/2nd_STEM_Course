@@ -29,7 +29,7 @@
  
  從以上LED 規格表格，可看出LED 燈大約使用2V及20mA工作電流。<P>
   
- Arduino UNO3控制板的Digital腳位輸出電壓是5V，所以多出的電壓是5V-2V=3V。我們可以用以下<B>Ohm's law<B>公式，計算出所需電阻值以消除多出電壓。<P>
+ Arduino UNO3控制板的Digital腳位輸出電壓是5V，所以多出的電壓是5V-2V=3V。我們可以用以下<B>Ohm's law</B>公式，計算出所需電阻值以消除多出電壓。<P>
   
  <B>V=IR</B><br>
  3 = 0.02R<br>
