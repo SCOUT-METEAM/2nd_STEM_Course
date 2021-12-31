@@ -2,7 +2,7 @@
 Library & Class是寫程式一個重要概念。<p>
   
 <h1>Library Installation</h1><p>
-我們編寫了一個簡單的Library檔案，請下載 "scout.zip"，並利用Arduino IDE安裝。有關ZIP檔案，已經存放在本Github的libraries內。<p>
+我們編寫了一個簡單的Library檔案，請下載 "scout.zip"，並利用Arduino IDE安裝。有關ZIP檔案，已經存放在本Github的<a href="https://github.com/SCOUT-METEAM/1st_STEM_Course/blob/main/libraries/scout.zip">libraries</a>內。<p>
 
 1. 按Sketch\Include Library\Add .ZIP Library <p>
   
