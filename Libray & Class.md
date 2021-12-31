@@ -29,7 +29,7 @@ void loop()
 </code>
 </pre>
 
-使用三部曲
+使用三部曲:
 1) 引入Library檔案
 2) 建立物件
 3) 使用有關Class內function
