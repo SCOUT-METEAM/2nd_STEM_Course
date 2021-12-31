@@ -1,3 +1,4 @@
+<h1>Library & Class</h1><p>
 <h1>Library Installation</h1><p>
 我們編寫了一個簡單的Library檔案，請下載 "scout.zip"，並利用Arduino IDE安裝。有關ZIP檔案，已經存放在本Github的libraries內。<p>
 
