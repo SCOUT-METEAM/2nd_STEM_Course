@@ -29,6 +29,11 @@ void loop()
 </code>
 </pre>
 
+使用三部曲
+1) 引入Library檔案
+2) 建立物件
+3) 使用有關Class內function
+
 <h1>Library檔案.h及.cpp</h1><p>
 Library檔案有兩種，一種是.h另一種是.cpp。.h可以看成是一個目錄(主要是存放Class)，而.cpp可以是看成內容(主要是存放Outside Class Functions)。<p>
 
