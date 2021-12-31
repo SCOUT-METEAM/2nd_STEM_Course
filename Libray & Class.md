@@ -1,3 +1,5 @@
+<h1>Library Installation</h1><p>
+
 <h1>Example Coding</h1><p>
 <pre><code>
 #include "Scout.h" //引入Library檔案
