@@ -1,5 +1,6 @@
 <h1>Library Installation</h1><p>
-
+我們編寫了一個簡單的Library檔案，請download "scout.zip"，並利用Arduino IDE安裝。
+  
 <h1>Example Coding</h1><p>
 <pre><code>
 #include "Scout.h" //引入Library檔案
