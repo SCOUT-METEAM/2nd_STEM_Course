@@ -10,7 +10,7 @@
 3A. 在WINDOW內的Documents\Arduino\libraries會看到新增的scout目錄。<p>
   
 3B. 在Arduino IDE，選擇File\Examples\scout，便可以打開以下Example Coding 。<p> 
-  
+
 <h1>Example Coding</h1><p>
 <pre><code>
 #include "Scout.h" //引入Library檔案
@@ -28,3 +28,5 @@ void loop()
 }
 </code>
 </pre>
+
+<h1>Class檔案scout.h</h1><p>
