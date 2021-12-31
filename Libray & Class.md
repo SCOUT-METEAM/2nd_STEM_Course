@@ -40,8 +40,8 @@ void loop()
 <h1>Library檔案.h及.cpp</h1><p>
 Library檔案有兩種，一種是.h另一種是.cpp。.h可以看成是一個目錄(主要是存放Class)，而.cpp可以是看成內容(主要是存放Outside Class Functions)。<p>
 
-由於本例子簡單，只有一個.h檔案。通常，當我們下載Library後，如果想直接看Class內容，會直接先看.h檔案。而本例子中，Library檔案名稱是Scout.h<p>
+由於本例子簡單，只有一個.h檔案。通常，當我們下載Library後，如果想直接看Class內容，會直接先看.h檔案。而本例子中，Library檔案名稱是Scout.h。<p>
 
-從下圖，可知道Class名稱是ScoutProg。在建立物件時,我們會用到。而這個ScoutProg Class內可以看到有一個function。這個function是例印出文字。因此，當我們從ScoutProg Class建立物件後，便可以繼承此function。只要用物件名稱加.meteam()便可以。<p>
+現在，我們用SUBLIMETEXT打開Scout.h。從下圖中，可以看到有一個Class可知道Class。名稱是ScoutProg。在建立物件時,我們會用到。而這個ScoutProg Class內可以看到有一個function。這個function是例印出文字。因此，當我們從ScoutProg Class建立物件後，便可以繼承此function。只要用物件名稱加.meteam()便可以。<p>
 
   
