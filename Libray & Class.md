@@ -30,7 +30,7 @@ void loop()
 </pre>
 
 <h1>Library檔案.h及.cpp</h1><p>
-Library檔案有兩種，一種是.h另一種是.cpp。.h可以看成是一個目錄(主要是存放Class)，而.cpp可以是看成內容(主要是存放Outside Class Function)。<p>
+Library檔案有兩種，一種是.h另一種是.cpp。.h可以看成是一個目錄(主要是存放Class)，而.cpp可以是看成內容(主要是存放Outside Class Functions)。<p>
 
 由於本例子簡單，只有.h檔案。通常，當我們下載Library後，如果想直接看Class，會先看.h檔案先。<p>
 
