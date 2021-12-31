@@ -6,6 +6,7 @@
 2. 選擇上述已下載的"scout.zip"檔案。<p>
 
 3. 如成功安裝，可以透過以下檢查及打開Example。<p>
+
 3A. 在WINDOW內的Documents\Arduino\libraries會看到新增的scout目錄。<p>
   
 3B. 在Arduino IDE，選擇File\Examples\scout，便可以打開以下Example Coding 。<p> 
