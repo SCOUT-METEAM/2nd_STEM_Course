@@ -34,3 +34,6 @@ Library檔案有兩種，一種是.h另一種是.cpp。.h可以看成是一個�
 
 由於本例子簡單，只有.h檔案。通常，當我們下載Library後，如果想直接看Class內容，會直接先看.h檔案。<p>
 
+從下圖，可知道Class名稱是ScoutProg。在建立物件時,我們會用到。而這個ScoutProg Class內可以看到有一個function。這個function是例印出文字。因此，當我們從ScoutProg Class建立物件後，便可以繼承此function。只要用物件名稱(口加.meteam()便可以。<p>
+
+  
