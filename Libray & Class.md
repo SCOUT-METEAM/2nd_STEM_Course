@@ -1,5 +1,5 @@
 <h1>Library & Class</h1><p>
-Library & Class是寫程式一個重要概念。<p>
+Library & Class是寫程式一個重要概念。當我們加裝一個感應器，如DHT11溫度灦度到Arduino UNO3上，<p>
   
 <h1>Library Installation</h1><p>
 我們編寫了一個簡單的Library檔案，請下載 "scout.zip"，並利用Arduino IDE安裝。有關ZIP檔案，已經存放在本Github的<a href="https://github.com/SCOUT-METEAM/1st_STEM_Course/blob/main/libraries/scout.zip">libraries</a>內。<p>
