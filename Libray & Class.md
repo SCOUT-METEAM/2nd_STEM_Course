@@ -14,7 +14,8 @@ Library & Class是寫程式一個重要概念。當我們加裝一個感應器�
 3A. 在WINDOW內的Documents\Arduino\libraries會看到新增的scout目錄。<p>
     <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/Class02.png"><p>
 3B. 在Arduino IDE，選擇File\Examples\scout，便可以打開以下Example Coding 。<p> 
-  <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/Class03.png"><p>
+    <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/Class03.png"><p>
+          <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/Class04.png"><p>
 <h1>Example Coding</h1><p>
 <pre><code>
 #include "Scout.h" //引入Library檔案
