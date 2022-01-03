@@ -6,15 +6,15 @@ Library & Class是寫程式一個重要概念。當我們加裝一個感應器�
 我們編寫了一個簡單的Library檔案，請下載 "scout.zip"，並利用Arduino IDE安裝。有關ZIP檔案，已經存放在本Github的<a href="https://github.com/SCOUT-METEAM/1st_STEM_Course/blob/main/libraries/scout.zip">libraries</a>內。<p>
 
 1. 按Sketch\Include Library\Add .ZIP Library <p>
-  <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/Class01.png">
+  <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/Class01.png"><p>
 2. 選擇上述已下載的"scout.zip"檔案。<p>
 
 3. 如成功安裝，可以透過以下檢查及打開Example。<p>
 
 3A. 在WINDOW內的Documents\Arduino\libraries會看到新增的scout目錄。<p>
-    <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/Class02.png">
+    <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/Class02.png"><p>
 3B. 在Arduino IDE，選擇File\Examples\scout，便可以打開以下Example Coding 。<p> 
-  <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/Class03.png">
+  <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/Class03.png"><p>
 <h1>Example Coding</h1><p>
 <pre><code>
 #include "Scout.h" //引入Library檔案
