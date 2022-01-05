@@ -5,7 +5,8 @@ Library & Class是寫程式一個重要概念。當我們加裝一個感應器�
 藍圖概念: 嘗試想像，我們是一名工程師，現在要做一部車。那麼第一時間會尋找這部車的藍圖出來。這張藍圖記錄了車的外形、顏色、功能，如可是加速及減速等。按這張藍圖，我們可以生產出很多實物的車。而這些實物的車，就有藍圖中所記錄的特性及功能(<B>繼承</B>)。在程式概念，這些車的顏色就是PROPERTY(特性)，功能就是METHOD。
 <p> 
 <B>Class 繼承方法</B><p>
-<table border=1><td><B><font color="#b03a2e">Class名稱</font>   自定物件名稱</B></td></table>
+
+<table border=1><td><B> Class名稱  自定物件名稱</B></td></table>
 例子: ScoutProg met;(參考本章Example Coding)<p>
 <h1>Library Installation</h1><p>
 我們編寫了一個簡單的Library檔案，請下載 "scout.zip"，並利用Arduino IDE安裝。有關ZIP檔案，已經存放在本Github的<a href="https://github.com/SCOUT-METEAM/1st_STEM_Course/blob/main/libraries/scout.zip">libraries</a>內。<p>
@@ -54,8 +55,8 @@ Library檔案有兩種，一種是.h另一種是.cpp。.h可以看成是一個�
 <h1>其它繼承例子</h1><p>
 以下是其它繼承例子，我們會以Adafruit DHT11及Adafruit OLED 的Library作例子。這兩個Libraries，我們會在今次的課堂使用。<p>Adafruit是世界其中一間大型open-source電子零件公司。而他們的Library好多時都適在Arduino或其它電子生產商所生產的同型號零件使用。<p>
 1. Adafruit DHT11溫度濕度感應器Library。<p>
-  下圖中，左邊是Adafruit DHT11的Example Coding，右邊是Library檔案<B>.h</B>。<p>
-    下圖中，是另一個Adafruit DHT11的Library檔案<B>.cpp</B>.cpp主要是儲存function內容的檔案，我們叫這些function是Outside Function。從中可見到華氏及攝氏轉換公式。<p>
+  下圖中，左邊是Adafruit DHT11的Example Coding，右邊是一個Library檔案，是<B>.h(名稱是)</B>。<p>
+  下圖中，是另一個Adafruit DHT11的Library檔案，是<B>.cpp</B>.cpp(名稱是)，主要是儲存function內容的檔案，我們叫這些function是Outside Function。從中可見到華氏及攝氏轉換公式。<p>
 2. Adafruit SSD1306 OLED顯示器Library。<p>
-  下圖中，左邊是Adafruit DHT11的Example Coding，右邊是Library檔案<B>.h</B>。<p>
+  下圖中，左邊是Adafruit DHT11的Example Coding，右邊是Library檔案，是<B>.h(名稱是)</B>。<p>
   
