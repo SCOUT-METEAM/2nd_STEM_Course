@@ -29,4 +29,5 @@ ii)按下綠色”Code”，再按下"Download ZIP"此library 。<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL10.png"><p>
 iii)下載後，有以下2個方法:<p>
 A)可以在Arduino IDE，按下Sketch\Include Library\Add .ZIP Library 並選擇在GITHUB下載的ZIP檔案。<p>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL12.png"><p>
 B)打開ZIP檔案， COPY ZIP檔案內的檔案入Arduino Library 目錄內(注意，不是下載的ZIP檔案)。即在早前安裝Arduino IDE時，提及的安裝路徑。一般是C:\Program Files (x86)\Arduino\libraries。重新啟動Arduino IDE軟件。與之前A)章節一樣，檢查library及Examples。<p>
