@@ -55,7 +55,7 @@ Library檔案有兩種，一種是.h另一種是.cpp。.h可以看成是一個�
   現在，我們用<a href="https://www.sublimetext.com/">SUBLIME TEXT</a>打開Scout.h。從下圖中，可以看到有一個Class，名稱是ScoutProg。在建立物件時，我們會用到。而這個<B>ScoutProg </B>Class內可以看到有一個function，名稱是<B>meteam()</B>。這個function功能是例印出文字。因此，當我們從ScoutProg Class建立物件後(上面Example Coding，這句ScoutProg met;)，便可以繼承此function。只要用物件名稱加.meteam()便可以。<B>注意，在使用Class 繼承時，第一樣要做的，是引入Library檔案，即上述Example Coding第一行。</B><p>
  <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/Class05.png"><p>
 <h1>其它繼承例子</h1><p>
-以下是其它繼承例子，我們會以Adafruit DHT11及Adafruit OLED 的Library作例子。這兩個Libraries，我們會在今次的課堂中使用。以下會打開Library提供的Exampling Coding及直接打開Library檔案。對初學者來說，看得明白Library提供的Example Coding已經十分好及足夠了! <p>Adafruit是世界其中一間大型open-source電子零件公司。而他們的Library好多時都適在Arduino或其它電子生產商所生產的同型號零件使用。<p>
+以下是其它繼承例子，我們會以Adafruit DHT11及Adafruit OLED 的Library作例子。這兩個Libraries，我們會在今次的課堂中使用。以下會打開Library提供的Exampling Coding及直接打開Library檔案(在文件\Arduino\libraries內)。對初學者來說，看得明白Library提供的Example Coding已經十分好及足夠了! <p>Adafruit是世界其中一間大型open-source電子零件公司。而他們的Library好多時都適在Arduino或其它電子生產商所生產的同型號零件使用。<p>
 <B>1. Adafruit DHT11溫度濕度感應器Library。</B><p>
 下圖中，左邊是Adafruit DHT11 Library的Example Coding，右邊是該Library檔案<B>.h(名稱是DHT.h)</B>。從圖中，可看到，有一句<B>DHT dht(DHTPIN, DHTTYPE);</B>。而我們可知，這個Class叫DHT。而繼承後的物件名稱是dht。但是，這個Class在時，需要在繼承時需要在物件後加括號，這與我們上述例子不同。這是正常的。因為Adafruit在創造這個Class時，設定要加入其他資料。所以，我們需要了解!!
 <p>
