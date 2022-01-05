@@ -3,12 +3,17 @@
 壞處:不可以先看library內檔案才下載。<p>
 
 i)在Arduino IDE軟件內，我們可以尋找到一些晶片的library。只要選擇Tools\Manage Libraries…<p>
-  <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL01.png"><p>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL01.png"><p>
 ii)當選擇後，會出現以下圖面，這是Arduino IDE library搜尋器。這次例子，會以下載DHT11為例。因此，在搜尋器內輸入DHT11，按下”輸入鍵”後，便會例出相關資料。<p>
-    <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL02.png"><p>
-iii)在搜尋器輸入欄內輸入所需晶片名稱，按下”輸入鍵”後，便會例出相關資料。選擇Arduino版本、最新version並按下Install鍵。Arduino IDE便會自動下載及安裝。安裝後會顯示Installed及版本。<p>
-iv) 檢查library是否正確安裝。選擇Sketch\Include Library。剛才所選擇的library已安裝了。<p>
-v)同時間，在File\Examples內，會提供相關例子程式。我們可参考有關編程，十分重要啊!<p>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL02.png"><p>
+iii)選擇想要的開發者，我們會選擇Adafruit及最新version並按下Install鍵。Arduino IDE便會自動下載及安裝。安裝後會顯示Installed及版本。<p>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL03.png"><p>
+iv)在安裝時，如發現有其他關聯Library會如下圖出現提示。只要按"Install All"便可以。<p>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL04.png"><p>
+v)安裝後會顯示Installed及版本。<p>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL05.png"><p>
+v) 檢查library是否正確安裝。選擇Sketch\Include Library。剛才所選擇的library已安裝了。<p>
+vi)同時間，在File\Examples內，會提供相關例子程式。我們可参考有關編程，十分重要啊!<p>
 
 <h1>2. 從GITHUB直接下載</h1><p>
 好處:可以先看library內檔案才下載。<p>
