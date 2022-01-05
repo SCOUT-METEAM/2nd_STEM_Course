@@ -12,11 +12,13 @@ iv)在安裝時，如發現有其他關聯Library會如下圖出現提示。只�
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL04.png"><p>
 v)安裝後會顯示Installed及版本。<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL05.png"><p>
-vi) 檢查library是否正確安裝。<p>
+vi) 檢查library是否正確安裝。我們可以在"文件\Arduino\libraries"內看到新增檔案。<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL06.png"><p>
+又或在File\Examples內看到。<p>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL07.png"><p>
 vii)同時間，在File\Examples內，會提供相關例子程式。我們可参考有關編程，十分重要啊!<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL07.png"><p>
-
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL08.png"><p>
 <h1>2. 從GITHUB直接下載</h1><p>
 好處:可以先看library內檔案才下載。<p>
 壞處:在下載時，可能違漏了其它關連library檔案下載。<p>
