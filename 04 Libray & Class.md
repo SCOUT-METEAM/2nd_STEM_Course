@@ -5,7 +5,7 @@ Library & Class是寫程式一個重要概念。當我們加裝一個感應器�
 藍圖概念: 嘗試想像，我們是一名工程師，現在要做一部車。那麼第一時間會尋找這部車的藍圖出來。這張藍圖記錄了車的外形、顏色、功能，如可是加速及減速等。按這張藍圖，我們可以生產出很多實物的車。而這些實物的車，就有藍圖中所記錄的特性及功能(<B>繼承</B>)。在程式概念，這些車的顏色就是PROPERTY(特性)，功能就是METHOD。
 <p> 
 Class 繼承方法<p>
-<B>Class名稱 自定賁物名稱</B> 
+<table><<B>Class名稱 自定賁物名稱</B> </table>
 <h1>Library Installation</h1><p>
 我們編寫了一個簡單的Library檔案，請下載 "scout.zip"，並利用Arduino IDE安裝。有關ZIP檔案，已經存放在本Github的<a href="https://github.com/SCOUT-METEAM/1st_STEM_Course/blob/main/libraries/scout.zip">libraries</a>內。<p>
 
