@@ -6,7 +6,7 @@ Library & Class是寫程式一個重要概念。當我們加裝一個感應器�
 <p> 
 <B>Class 繼承方法</B><p>
 
-<table border=1><td><B> Class名稱  自定物件名稱</B></td></table>
+<table border=1><td><B> Class名稱 &nbsp &nbsp &nbsp &nbsp自定物件名稱</B></td></table>
 例子: ScoutProg met;(參考本章Example Coding)<p>
 <h1>Library Installation</h1><p>
 我們編寫了一個簡單的Library檔案，請下載 "scout.zip"，並利用Arduino IDE安裝。有關ZIP檔案，已經存放在本Github的<a href="https://github.com/SCOUT-METEAM/1st_STEM_Course/blob/main/libraries/scout.zip">libraries</a>內。<p>
