@@ -67,6 +67,6 @@ Library檔案有兩種，一種是.h另一種是.cpp。.h可以看成是一個�
 下圖中，是另一個Adafruit DHT11的Library檔案<B>.cpp</B>(名稱是DHT.cpp)，主要是儲存function內容的檔案，我們叫這些function是Outside Function。從中，可見到華氏及攝氏轉換公式。<p>
  <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/Class08.png"><p>
   <B>2. Adafruit SSD1306 OLED顯示器Library。</B><p>
-下圖中，左邊是Adafruit SSD1306 OLED顯示器Library的Example Coding，右邊是Library檔案<B>.h(名稱是Adafruit_SSD1306.h)</B>。<p>
+下圖中，左邊是Adafruit SSD1306 OLED顯示器Library的Example Coding，右邊是Library檔案<B>.h(名稱是Adafruit_SSD1306.h)</B>。同樣，繼承時要加入其他資料。但是這個Class對初學者來說比較複雜，所以暫時不需要詳細了解。其實，對初學者來說，看得明白Library提供的Example Coding已經十分好及足夠了!<p>
  <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/Class09.png"><p>
   
