@@ -27,7 +27,15 @@ i)先到GITHUB搜尋有關Library，從下圖中，可以看到adafruit/DHT-sens
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL09.png"><p>
 ii)按下綠色”Code”，再按下"Download ZIP"此library 。<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL10.png"><p>
-iii)下載後，有以下2個方法:<p>
+iii)下載後，有以下2個方法新增有關ZIP檔案。<p>
 A)可以在Arduino IDE，按下Sketch\Include Library\Add .ZIP Library 並選擇在GITHUB下載的ZIP檔案。<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL12.png"><p>
+檢查library是否正確安裝。我們可以在"文件\Arduino\libraries"內看到新增檔案。
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL06.png"><p>
+又或在File\Examples內看到。<p>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL07.png"><p>
+同時間，在File\Examples內，會提供相關例子程式。我們可参考有關編程，十分重要啊!<p>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL07.png"><p>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL08.png"><p>
+  
 B)打開ZIP檔案， COPY ZIP檔案內的檔案入Arduino Library 目錄內(注意，不是下載的ZIP檔案)。即在早前安裝Arduino IDE時，提及的安裝路徑。一般是C:\Program Files (x86)\Arduino\libraries。重新啟動Arduino IDE軟件。與之前A)章節一樣，檢查library及Examples。<p>
