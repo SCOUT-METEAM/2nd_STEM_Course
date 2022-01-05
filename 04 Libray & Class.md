@@ -55,8 +55,8 @@ Library檔案有兩種，一種是.h另一種是.cpp。.h可以看成是一個�
 <h1>其它繼承例子</h1><p>
 以下是其它繼承例子，我們會以Adafruit DHT11及Adafruit OLED 的Library作例子。這兩個Libraries，我們會在今次的課堂使用。<p>Adafruit是世界其中一間大型open-source電子零件公司。而他們的Library好多時都適在Arduino或其它電子生產商所生產的同型號零件使用。<p>
 <B>1. Adafruit DHT11溫度濕度感應器Library。</B><p>
-  下圖中，左邊是Adafruit DHT11 Library的Example Coding，右邊是一個Library檔案，是<B>.h(名稱是)</B>。<p>
+  下圖中，左邊是Adafruit DHT11 Library的Example Coding，右邊是一個Library檔案<B>.h(名稱是)</B>。<p>
   下圖中，是另一個Adafruit DHT11的Library檔案，是<B>.cpp</B>(名稱是)，主要是儲存function內容的檔案，我們叫這些function是Outside Function。從中，可見到華氏及攝氏轉換公式。<p>
 <B>2. Adafruit SSD1306 OLED顯示器Library。</B><p>
-  下圖中，左邊是Adafruit SSD1306 OLED顯示器Library的Example Coding，右邊是Library檔案，是<B>.h(名稱是)</B>。<p>
+  下圖中，左邊是Adafruit SSD1306 OLED顯示器Library的Example Coding，右邊是Library檔案<B>.h(名稱是)</B>。<p>
   
