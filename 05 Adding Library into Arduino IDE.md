@@ -12,8 +12,10 @@ iv)在安裝時，如發現有其他關聯Library會如下圖出現提示。只�
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL04.png"><p>
 v)安裝後會顯示Installed及版本。<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL05.png"><p>
-v) 檢查library是否正確安裝。選擇Sketch\Include Library。剛才所選擇的library已安裝了。<p>
-vi)同時間，在File\Examples內，會提供相關例子程式。我們可参考有關編程，十分重要啊!<p>
+vi) 檢查library是否正確安裝。<p>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL06.png"><p>
+vii)同時間，在File\Examples內，會提供相關例子程式。我們可参考有關編程，十分重要啊!<p>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL07.png"><p>
 
 <h1>2. 從GITHUB直接下載</h1><p>
 好處:可以先看library內檔案才下載。<p>
