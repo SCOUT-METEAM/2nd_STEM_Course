@@ -50,6 +50,6 @@ Library檔案有兩種，一種是.h另一種是.cpp。.h可以看成是一個�
  <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/Class05.png"><p>
 <h1>其它繼承例子</h1><p>
 以下是其它繼承例子，我們會以Adafruit DHT11及Adafruit OLED 的Library作例子。這兩個Libraries，我們會在今次的課堂使用。<p>Adafruit是世界其中一間大型open-source電子零件公司。而他們的Library好多時都適在Arduino或其它電子生產商所生產的同型號零件使用。<p>
-1. Adafruit DHT11。<p>
-2. Adafruit OLED。<p>
+1. Adafruit DHT11溫度濕度感應器。<p>
+2. Adafruit SSD1306 OLED顯示器。<p>
   
