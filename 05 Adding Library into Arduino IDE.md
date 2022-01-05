@@ -23,9 +23,10 @@ vii)同時間，在File\Examples內，會提供相關例子程式。我們可参
 好處:可以先看library內檔案才下載。<p>
 壞處:在下載時，可能違漏了其它關連library檔案下載。<p>
 
-i)先到GITHUB搜尋有關Library
+i)先到GITHUB搜尋有關Library，從下圖中，可以看到adafruit/DHT-sensor-library是第一個出現。我們CLICK入有關連結。<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL09.png"><p>
 ii)按下綠色”Clone or Downlaod”，下載此library 。<p>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL10.png"><p>
 iii)選擇下載ZIP檔案。<p>
 iv)下載後，有以下2個方法:<p>
 A)可以在Arduino IDE，按下Sketch\Include Library\Add .ZIP Library 並選擇在GITHUB下載的ZIP檔案。<p>
