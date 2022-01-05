@@ -49,5 +49,7 @@ Library檔案有兩種，一種是.h另一種是.cpp。.h可以看成是一個�
   現在，我們用<a href="https://www.sublimetext.com/">SUBLIME TEXT</a>打開Scout.h。從下圖中，可以看到有一個Class，名稱是ScoutProg。在建立物件時，我們會用到。而這個<B>ScoutProg </B>Class內可以看到有一個function，名稱是<B>meteam()</B>。這個function功能是例印出文字。因此，當我們從ScoutProg Class建立物件後(上面Example Coding，這句ScoutProg met;)，便可以繼承此function。只要用物件名稱加.meteam()便可以。<p>
  <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/Class05.png"><p>
 <h1>其它繼承例子</h1><p>
-以下是其它繼承例子，我們會以Adafruit DHT11及Adafruit OLED 的Library作例子。
+以下是其它繼承例子，我們會以Adafruit DHT11及Adafruit OLED 的Library作例子。這兩個Libraries，我們會在今次的課堂使用。<p>Adafruit是世界其中一間大型open-source電子零件公司
+1. Adafruit DHT11。<p>
+2. Adafruit OLED。<p>
   
