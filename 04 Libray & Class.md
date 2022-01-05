@@ -57,7 +57,9 @@ Library檔案有兩種，一種是.h另一種是.cpp。.h可以看成是一個�
 <h1>其它繼承例子</h1><p>
 以下是其它繼承例子，我們會以Adafruit DHT11及Adafruit OLED 的Library作例子。這兩個Libraries，我們會在今次的課堂使用。<p>Adafruit是世界其中一間大型open-source電子零件公司。而他們的Library好多時都適在Arduino或其它電子生產商所生產的同型號零件使用。<p>
 <B>1. Adafruit DHT11溫度濕度感應器Library。</B><p>
-  下圖中，左邊是Adafruit DHT11 Library的Example Coding，右邊是一個Library檔案<B>.h(名稱是)</B>。<p>
+  下圖中，左邊是Adafruit DHT11 Library的Example Coding，右邊是該Library檔案<B>.h(名稱是DHT.h)</B>。從圖中，可看到，有一句<B>DHT dht(DHTPIN, DHTTYPE);</B>。而我們可知，這個Class叫DHT。而繼承後的物件名稱是dht。但是，這個Class在時，需要在繼承時需要在物件後加括號，這與我們上述例子不同。這是正常的。因為Adafruit在創造這個Class時，設定要加入其他資料。所以，我們需要了解!
+  
+  所以<p>
     <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/Class06.png"><p>
   下圖中，是另一個Adafruit DHT11的Library檔案，是<B>.cpp</B>(名稱是)，主要是儲存function內容的檔案，我們叫這些function是Outside Function。從中，可見到華氏及攝氏轉換公式。<p>
 <B>2. Adafruit SSD1306 OLED顯示器Library。</B><p>
