@@ -1,5 +1,5 @@
 <h1>Arduino UNO3 Structure & Specification</h1>
 <p>
-以下是Arduino UNO3 T
+以下是Arduino UNO3 Tech Spec<p>
 Ref:<p>
 Arduino UNO R3 (https://docs.arduino.cc/hardware/uno-rev3)
