@@ -1,7 +1,7 @@
 <h1>Library Installation in Arduino IDE</h1><p>
 <h1>1. 透過Arduino IDE下載</h1><p>
-好處:可避免在下載時，違漏了其它關連library檔案。<p>
-壞處:不可以先看library內檔案才下載。<p>
+好處: 可避免在下載時，違漏了其它關連library檔案。<p>
+壞處: 不可以先看library檔案內容才下載。<p>
 
 i)在Arduino IDE軟件內，我們可以尋找到一些晶片的library。只要選擇Tools\Manage Libraries…<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL01.png"><p>
