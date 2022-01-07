@@ -9,7 +9,7 @@ ii)當選擇後，會出現以下圖面，這是Arduino IDE library搜尋器。�
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL02.png"><p>
 iii)選擇想要的開發者，我們會選擇由Adafruit開發及他的最新version，並按下Install鍵安裝。之後，Arduino IDE便會自動下載及安裝。<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL03.png"><p>
-iv)在安裝時，如發現有其他關聯Library會如下圖出現提示。只要按"Install All"便可以。<p>
+iv)在安裝時，如發現有其他關聯Library會如下圖出現提示。只要按<B>"Install All"</B>便可以。<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL04.png"><p>
 v)安裝後會顯示Installed及版本。<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL05.png"><p>
