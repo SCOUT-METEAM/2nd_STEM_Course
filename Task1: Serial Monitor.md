@@ -21,7 +21,7 @@ Serial.println("Test02");   //println是例印完後便隔行
 <h1>Arduino Coding Explanation</h1><p>
 以上Arduino Coding十分簡單，只要有兩或三句程式便可以印出資料。<p>
 <B>第一句:</B><p>
-<B>Serial.begin(115200);</B>是啟動Serial Communication並設定傳送速度(baud rate)為115200。<B>Serial同begin()是關鍵字，不能改，大小寫要跟足。</B><p>  
+<B>Serial.begin(115200);</B>是啟動Serial Communication並設定傳送速度(baud rate)為115200。<B>Serial同begin()是關鍵字，不能改，大小寫要跟足。</B>begin()是function，已內嵌在Arduino IDE內並屬於Serial這個CLASS之下。所以Serial同begin()之間要有<B>"."</B>連接<p>  
 <p>  
 <h1>應用例子</h1><p>
 以下是使用DHT11讀取溫濕資料並顯示在Serial Monitor內。  
