@@ -1,4 +1,4 @@
-<h1>Serial Monitor</h><p>
+<h1>Serial Monitor</h1><p>
 Arduino IDE內，有一個工具，名稱是Serial Monitor。可以在   打開。<p>
 不知道大家有沒有想過，如果我們接駁了一個DHT11溫度濕度感應器，在沒有顯示器下，我們又怎樣知道有關溫度及濕度讀數?因此，Arduino IDE提供了Serial Monitor工具，只要我們在程式中加入有關顯示程式，我們便可以透過Serial Monitor顯示有關讀數。<p>
 
