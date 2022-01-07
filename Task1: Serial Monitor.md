@@ -18,3 +18,4 @@ Serial.println("Test02");   //println是例印完後便隔行
 }
 </code></pre>
 <h1>應用例子</h1><p>
+以下是使用DHT11讀取溫濕資料並顯示在Serial Monitor內。  
