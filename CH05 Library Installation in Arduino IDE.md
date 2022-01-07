@@ -7,7 +7,7 @@ i)在Arduino IDE軟件內，我們可以尋找到一些晶片的library。只要
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL01.png"><p>
 ii)當選擇後，會出現以下圖面，這是Arduino IDE library搜尋器。這次例子，會以下載DHT11 Library為例。因此，在搜尋器內輸入DHT11，按下”輸入鍵”後，便會例出相關資料。<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL02.png"><p>
-iii)選擇想要的開發者，我們會選擇Adafruit及最新version並按下Install鍵。Arduino IDE便會自動下載及安裝。<p>
+iii)選擇想要的開發者，我們會選擇由Adafruit開發及他的最新version，並按下Install鍵安裝。之後，Arduino IDE便會自動下載及安裝。<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL03.png"><p>
 iv)在安裝時，如發現有其他關聯Library會如下圖出現提示。只要按"Install All"便可以。<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL04.png"><p>
