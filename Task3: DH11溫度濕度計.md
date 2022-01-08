@@ -3,9 +3,7 @@
 1) 認識及使用DHT11量度溫度及濕度<br>
 2) 認識及及安裝有關Library<br>
 3) 認識程式編寫<br>
- 
 <p>
- 
 <B>工具:</B><p>
 1) Arduino UNO Rev3 控制板X 1<br>
 3) 10CM 紅色杜邦線 X 1<br>
