@@ -34,6 +34,7 @@ https://github.com/javl/image2cpp
 <p><p>
 如要將圖像在OLED上顯示，我們要將圖像轉化為數值，告知OLED顯示器那些地方有光，那些地方沒有。將圖像轉換成數值，可以使用上述image2cpp。大家可以DOWNLOAD他們的HTML檔案離線使用或到他們網址轉換。轉換後，將生成的一連串數值放在本將提供的程式內，有關數值需要放在以下程式碼的{ }內:<p><B>static const byte PROGMEM logo_draw[] ={ } </B><p>
 <br>
+上述的句子是一個Array(陣列)。而Array是變數(Variable)型態一種。其特點是可以儲存多個變數數值。再嚴格地說，這個Array是byte Array，因為每個數值在這個Array內是不大於byte的範圍，即<=255。
 <h1>Arduino Coding</h1>
 <pre><code>
 
