@@ -49,12 +49,13 @@ ScoutProg 是CLASS名稱，這CLASS名稱後加一個空格，之後就是物件
 <B>第三句: met.meteam();</B><p> 
 從上述例子，小編在第二句中，將物件名稱改成met。met物件便繼承了ScoutProg Class，有了ScoutProg所有功能。.meteam()是ScoutProg Class內function，現在met物件可以用了。
   
-<p>  
-使用三部曲:
-1) 引入Library檔案
-2) 建立物件
-3) 使用有關Class內function
-
+<p>
+<B>
+使用三部曲:<p>  
+1) 引入Library檔案<p>  
+2) 建立物件<p>  
+3) 使用有關Class內function<p>  
+  </B>
 <h1>Library檔案.h及.cpp</h1><p>
 Library檔案有兩種，一種是.h另一種是.cpp。.h可以看成是一個目錄(主要是存放Class)，而.cpp可以是看成內容(主要是存放Outside Class Functions)。<p>
 
