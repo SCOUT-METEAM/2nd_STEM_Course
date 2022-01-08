@@ -14,8 +14,8 @@ Serial.begin(115200);       //啟動Serial Communication，設定速度(baud rat
 
 void loop() 
 { 
-Serial.print("Test01");     //print是例印
-Serial.println("Test02");   //println是例印完後便隔行
+Serial.print("ScoutHK");     //print是例印
+Serial.println("METEAM");   //println是例印完後便隔行
 }
 </code></pre>
 <h1>Arduino Coding Explanation</h1><p>
