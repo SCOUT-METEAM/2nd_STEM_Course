@@ -4,7 +4,7 @@
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL02.png"><p>
 選擇由Adafruit開發及他的最新version，並按下Install鍵安裝。<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL03.png"><p>
-<B>方法2:從以下GITHUB直接下載</B><P>
+<B>方法2: 從以下GITHUB直接下載</B><P>
 https://github.com/adafruit/DHT-sensor-library
 <br>
 https://github.com/adafruit/Adafruit_Sensor
