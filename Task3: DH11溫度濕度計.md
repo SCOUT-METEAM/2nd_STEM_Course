@@ -1,17 +1,17 @@
 <h1>DH11溫度濕度計<p></h1>
 <B>目的:</B>
-1)認識及使用DHT11量度溫度及濕度
-2)認識及及安裝有關Library
-3)認識程式編寫
+1)認識及使用DHT11量度溫度及濕度<br>
+2)認識及及安裝有關Library<br>
+3)認識程式編寫<br>
  
 <p>
  
  <B>工具:</B>
-1) Arduino UNO Rev3 控制板X 1
-3) 10CM 紅色杜邦線 X 1
-4) 10CM 黑色杜邦線 X 1
-5) 10CM 橙色杜邦線 X 1
-6) DHT11 X 1
+1) Arduino UNO Rev3 控制板X 1<br>
+3) 10CM 紅色杜邦線 X 1<br>
+4) 10CM 黑色杜邦線 X 1<br>
+5) 10CM 橙色杜邦線 X 1<br>
+6) DHT11 X 1<br>
  
 <h1>Connection Map 連接圖</h1><p>
 
