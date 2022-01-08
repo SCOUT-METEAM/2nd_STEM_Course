@@ -35,8 +35,8 @@ https://github.com/javl/image2cpp
 如要將圖像在OLED上顯示，我們要將圖像轉化為數值，告知OLED顯示器那些地方有光，那些地方沒有。將圖像轉換成數值，可以使用上述image2cpp。大家可以DOWNLOAD他們的HTML檔案離線使用或到他們網址轉換。轉換後，將生成的一連串數值放在本將提供的程式內，有關數值需要放在以下程式碼的{ }內:<p><B>static const byte PROGMEM logo_draw[] ={ } </B><p>
 <br>
 上述的句子是一個Array(陣列)。而Array是變數(Variable)型態一種。其寫法格式是:<p>
-<B>陣列名稱(可以自定名稱)[]={ }</B><p>
-例子: logo_draw[] ={ }<p>
+<B>陣列名稱(可以自定名稱)[ ]={ }</B><p>
+例子: logo_draw[ ] ={ }<p>
 Array特點是可以儲存多個變數數值。再嚴格地說，這個Array是byte Array，因為每個數值在這個Array內是不大於byte的範圍，即<=255。但是在轉換後的數值是0X00, 0XC0...等，不是我們常見的數字呀?? 其實，讀者看到的0X00, 0XC0...等數值是電腦常用的十六進制(Hexadecimal)數值，只要將0X00轉換成我們常用的十進制(Decimal)，0X00就等於0。<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/OLED002.png"><p>
 再深入些解釋，每個Array內數值是控制OLED顯示器上8個點。因為在上表，同樣可以轉換成二進制(binary)，即0及1。如0x12，就是0 0 0 1 0 0 1 0。那麼，便可知那個點是有光，那個點是沒有光。
