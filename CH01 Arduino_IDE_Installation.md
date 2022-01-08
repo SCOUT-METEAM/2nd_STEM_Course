@@ -24,6 +24,8 @@
 6. 當安裝了後，打開程式，便如下圖。<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AIDE08.png" alt="right"><br>
 <br>
+  Void Setup() { } 及Void loop() { } 是Arduino IDE內嵌functions。當Arduino UNO3通電後，Void Setup() { }內程式會被執行一次。而Void loop() { }內程式則會不斷地重覆執行。
+<p>  
 Ref: <br>
 Install the Arduino Software (IDE) on Windows PCs<br>
 https://www.arduino.cc/en/Guide/Windows#proceed-with-board-specific-instructions
