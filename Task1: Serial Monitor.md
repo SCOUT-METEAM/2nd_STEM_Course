@@ -29,7 +29,7 @@ Serial.begin(115200);是啟動Serial Communication並設定傳送速度(baud rat
 在其它Library，如DHT11 Library，也有.begin()的function。而這個.begin()，在建立物件後也通常放在Void Setp()內。當Arduino UNO3一通電後，便可以即時啟動<B>一次</B>，使到DHT11 溫度濕度感應器可以在Arduino UNO3通電後即時啟動，並進行之後量度。
 <p>
 <B>第二/三句:</B><p>  
-<B>Serial.print("Test01"); 及Serial.println("Test02"); </B>階是例印，有例印功能。想例印的文字(String)要放在()內<B>並需要有""包住</B>。兩句不同之處是.print()只是例印，印出文字後便完成。而.println()則在印出()內的文字後，會自動跳行。
+<B>Serial.print("ScoutHK"); 及Serial.println("METEAM"); </B>階是例印，有例印功能。想例印的文字(String)要放在()內<B>並需要有""包住</B>。兩句不同之處是.print()只是例印，印出文字後便完成。而.println()則在印出()內的文字後，會自動跳行。
 <p> 
 void loop(){ }是looping function，Arduino IDE設定有不斷重覆功能。因此，void loop(){ }內的程式，將會不斷地執行。小編將這兩句printing程式放在void loop(){ }內，是想給大家看有怎樣結果。<p> 
 <h1>應用例子</h1><p>
