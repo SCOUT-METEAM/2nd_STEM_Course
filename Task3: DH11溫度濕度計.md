@@ -1,4 +1,7 @@
 <h1>Library</h1>
+<B>方法1:</B><P>
+在Arduino IDE下載。<P>
+<B>方法2:</B><P>
 <B>Please download following libraries and install it into Arduino IDE first.</B><br>
 https://github.com/adafruit/DHT-sensor-library
 <br>
