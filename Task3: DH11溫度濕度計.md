@@ -1,5 +1,5 @@
 <h1>Library</h1>
-<i>有關下載及安裝Library，可以參考CH05 Library Installation in Arduino IDE</i><p>
+<i>有關下載及安裝Library，可以參考CH05 Library Installation in Arduino IDE</i><P>
 <B>方法1: 在Arduino IDE下載。</B><P>
 在Arduino IDE library搜尋器內(Tools\Manage Libraries…)，輸入DHT11，按下”輸入鍵”後，便會例出相關資料。<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL02.png"><p>
