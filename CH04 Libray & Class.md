@@ -41,7 +41,15 @@ void loop()
 }
 </code>
 </pre>
-
+<p>
+<B>第一句: #include "Scout.h" 引入Library檔案</B><p>  
+由於CLASS檔案放在另一個外置檔案，所以要引入到Arduino IDE內。引入方法是<B>#include</B>加一個空格及CLASS檔案名稱。CLASS檔案名稱要有""括住。<p>  
+<B>第二句: ScoutProg met; 建立物件</B><p> 
+ScoutProg 是CLASS名稱，這CLASS名稱後加一個空格，之後就是物件名稱。物件名稱是自己可以自定。<p> 
+<B>第三句: met.meteam();</B><p> 
+從上述例子，小編在第二句中，將物件名稱改成met。met物件便繼承了ScoutProg Class，有了ScoutProg所有功能。.meteam()是ScoutProg Class內function，現在met物件可以用了。
+  
+<p>  
 使用三部曲:
 1) 引入Library檔案
 2) 建立物件
