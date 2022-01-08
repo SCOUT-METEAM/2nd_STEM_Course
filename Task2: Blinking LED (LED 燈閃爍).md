@@ -90,4 +90,7 @@ const是常數意思。指示之後的變數內數值是不變。<p>
 以下是另一款有傳回值的例子: <p> 
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/func02.png"><p> 
 <p>
-Function寫好，可以
+從這個例子，我們可以CALL有關function。但今今次，我們可以放入數值來計算加數總和。這句cal(1000, 50);會傳回1050。
+
+
+
