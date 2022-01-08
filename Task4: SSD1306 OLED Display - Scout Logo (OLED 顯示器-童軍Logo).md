@@ -43,7 +43,7 @@ https://github.com/javl/image2cpp
 另外，讀者還見到PROGMEM、static、const等字在這條Array前。<p> 
 PROGMEM: 指定Array放在flash (program) memory 內而不是記憶體SRAM內。<br> 
 const: 指是不變常數。<br> 
-static: 是建立後會保留。<br> 
+static: 指是靜態方法，而靜態建構函式只會執行一次。<br> 
 <p> 
 <h1>Arduino Coding</h1>
 <pre><code>
