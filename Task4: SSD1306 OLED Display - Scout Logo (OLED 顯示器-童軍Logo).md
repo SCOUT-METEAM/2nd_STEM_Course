@@ -1,5 +1,12 @@
 <h1>Library</h1>
-<br>
+<i>有關下載及安裝Library，可以參考<a href="https://github.com/SCOUT-METEAM/1st_STEM_Course/blob/main/CH05%20Library%20Installation%20in%20Arduino%20IDE.md">CH05 Library Installation in Arduino IDE<a></i><p>
+  
+<B>方法1: 在Arduino IDE下載。</B><p>
+在Arduino IDE library搜尋器內(Tools\Manage Libraries…)，輸入SSD1306，按下”輸入鍵”後，便會例出相關資料。<p>
+
+選擇由Adafruit開發及他的最新version，並按下Install鍵安裝。<p>
+
+<B>方法2: 從以下GITHUB直接下載及安裝</B><P>
 Please download following libraries and install it into Arduino IDE first.
 <br>
 https://github.com/adafruit/Adafruit_SSD1306
