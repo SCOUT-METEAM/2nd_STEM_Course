@@ -72,7 +72,7 @@ Library檔案有兩種，一種是.h另一種是.cpp。.h可以看成是一個�
 <p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/Class06.png"><p>
 在Adafruit DHT11 Library的Example Coding，物件括號內要加入的資料，在程式開首已用define定義了。所以在物件括號內可以用define引入。<p>
-<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/Class07.png"><p>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/Class07b.png"><p>
 下圖中，是另一個Adafruit DHT11的Library檔案<B>.cpp</B>(名稱是DHT.cpp)，主要是儲存function內容的檔案，我們叫這些function是Outside Function。從中，可見到華氏及攝氏轉換公式。<p>
  <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/Class08.png"><p>
   <B>2. Adafruit SSD1306 OLED顯示器Library。</B><p>
