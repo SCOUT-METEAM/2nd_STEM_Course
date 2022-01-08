@@ -1,6 +1,6 @@
 <h1>SSD1306 OLED Display - Scout Logo (OLED 顯示器-童軍Logo)</h1><p>
 <B>目的:</B><p>
-1) 認識及使用SSD1306 OLED 顯示器顯示童軍Logo<br>
+1) 認識及使用SSD1306 OLED 顯示器顯示圖像-童軍Logo<br>
 2) 認識及及安裝有關Library<br>
 3) 認識程式編寫<br>
 <p>
