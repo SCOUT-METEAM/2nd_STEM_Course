@@ -41,12 +41,12 @@ https://github.com/javl/image2cpp
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 
-#define SCREEN_WIDTH 128 // OLED 寬度像素
-#define SCREEN_HEIGHT 64 // OLED 高度像素
+#define SCREEN_WIDTH 128 // 設定OLED 寬度像素為128並放入SCREEN_WIDTH內, 在第49行使用。
+#define SCREEN_HEIGHT 64 // OLED 高度像素為64並放入SCREEN_HEIGHT內, 在第49行使用。
 
 // 設定OLED
-#define OLED_RESET     4 // Reset pin # (or -1 if sharing Arduino reset pin)
-Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
+#define OLED_RESET     4 // Reset pin # (or -1 if sharing Arduino reset pin) 
+Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET); //建立物件並命名為display。物件display繼承Adafruit_SSD1306 CLASS
 
 //自訂圖形，從Image2LCD轉過來的，尺寸是128x64
 static const byte PROGMEM logo_draw[] =
