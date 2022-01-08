@@ -24,7 +24,9 @@
 6. 當安裝了後，打開程式，便如下圖。<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AIDE08.png" alt="right"><br>
 <br>
-  Void Setup() { } 及Void loop() { } 是Arduino IDE內嵌functions。當Arduino UNO3通電後，Void Setup() { }內程式會被執行一次。而Void loop() { }內程式則會不斷地重覆執行。
+  <B>Void Setup() { } / Void loop() { }</B><p>  
+  Void Setup() { } 及Void loop() { } 是Arduino IDE內嵌functions。當Arduino UNO3通電後，Void Setup() { }內程式會被執行一次。而Void loop() { }內程式則會不斷地重覆執行。<p> 
+  { }是大括號，英文叫block。我們想寫的程式放在這個block內。
 <p>  
   <B>Comments</B><br>
   //是代表comments，//之後的文字是不會被Arduino IDE編釋。可以用作記錄有關註解。<br>
