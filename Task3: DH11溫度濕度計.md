@@ -1,11 +1,11 @@
 <h1>Library</h1>
 <B>方法1:</B><P>
 在Arduino IDE下載。<P>
-<B>方法2:</B><P>
 在Arduino IDE library搜尋器內(Tools\Manage Libraries…)，輸入DHT11，按下”輸入鍵”後，便會例出相關資料。<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL02.png"><p>
 選擇由Adafruit開發及他的最新version，並按下Install鍵安裝。<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL03.png"><p>
+<B>方法2:</B><P>
 <B>Please download following libraries and install it into Arduino IDE first.</B><br>
 https://github.com/adafruit/DHT-sensor-library
 <br>
