@@ -1,3 +1,18 @@
+<h1>小成氣象站AWS</h1><p>
+<B>目的:</B><p>
+1) 組合過去所學<br>
+2) 認識及及安裝有關Library<br>
+3) 認識程式編寫<br>
+<p>
+<B>工具:</B><p>
+1) Arduino UNO Rev3 控制板X 1<br>
+3) 10CM 紅色杜邦線 X 1<br>
+4) 10CM 黑色杜邦線 X 1<br>
+5) 10CM 白色杜邦線 X 1<br>
+6) 10CM 灰色杜邦線 X 1<br>
+7) SSD1306 OLED 單色顯示器 X 1<br>
+ 
+<h1>Connection Map 連接圖</h1><p>
 
 <h1>Arduino Coding</h1>
 <pre><code>
