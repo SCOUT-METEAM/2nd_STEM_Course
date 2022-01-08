@@ -10,7 +10,7 @@
 4) 10CM 黑色杜邦線 X 1<br>
 5) 10CM 白色杜邦線 X 1<br>
 6) 10CM 灰色杜邦線 X 1<br>
-7) SSD1306 OLED 顯示器 X 1<br>
+7) SSD1306 OLED 單色顯示器 X 1<br>
  
 <h1>Connection Map 連接圖</h1><p>
 
@@ -31,6 +31,10 @@ https://github.com/adafruit/Adafruit-GFX-Library
 <br>
 <h1>Online image2cpp</h1>
 https://github.com/javl/image2cpp
+<p>
+如要將圖像在OLED上顯示，我們要將圖像轉化為數值，告知OLED顯示器那些地方有光，那些地方沒有。將圖像轉換成數值，可以使用上述image2cpp。大家可以DOWNLOAD他們的HTML檔案離線使用或到他們網址轉換。<p>
+ 
+ 
 <br>
 <h1>Arduino Coding</h1>
 <pre><code>
