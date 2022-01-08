@@ -26,6 +26,12 @@
 <br>
   Void Setup() { } 及Void loop() { } 是Arduino IDE內嵌functions。當Arduino UNO3通電後，Void Setup() { }內程式會被執行一次。而Void loop() { }內程式則會不斷地重覆執行。
 <p>  
+  //是代表comments，//之後的文字是不會被Arduino IDE編釋。可以用作記錄有關註解。<br>
+  除了//，也可以使用/* */。如我們有多行文字，我們會先用/*作開首，*/作結。<br>
+  /*
+  ABCD
+  EFGH
+  */
 Ref: <br>
 Install the Arduino Software (IDE) on Windows PCs<br>
 https://www.arduino.cc/en/Guide/Windows#proceed-with-board-specific-instructions
