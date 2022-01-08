@@ -39,6 +39,6 @@
 <B>編譯器 (Compiler)</B><p>
 當以上CODING編寫好後，我們表下Arduino IDE上的上傳按鈕，便可以自動上傳有關程式到Arduino UNO3。其實Arduino IDE內嵌了一個編譯器 (Compiler)，當上傳時，這個編譯器會自動將我們的程式碼改成機械碼1010001....... 。這些機械碼就是Arduino UNO3可讀取及運作的機械碼。
 <p>  
-Ref: <br>
+<B>Ref: </B><br>
 Install the Arduino Software (IDE) on Windows PCs<br>
 https://www.arduino.cc/en/Guide/Windows#proceed-with-board-specific-instructions
