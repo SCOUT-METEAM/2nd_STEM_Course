@@ -84,6 +84,8 @@ const是常數意思。指示之後的變數內數值是不變。<p>
 <h1>Function</h1><p>
 以下是宣告方法: <p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/func01.png"><p> 
-void LEDBLINK(){　｝，void Setup(){　｝、void loop(){　｝階是function。
- 
+傳回資料型態是變數型態，是關鍵字，要根據程式語言設定輸入。大小寫跟足，不能亂改。而名稱則可以，可自己改名。<p> 
+本章程式例子，可見有void LEDBLINK(){　｝，void Setup(){　｝、void loop(){　｝階是function。 而當中的void就是其中一種傳回資料型態。但是，void只是執行，不會傳回(輸出)任何數值。<p> 
+以下是另一款有傳回值的例子: <p> 
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/func02.png"><p> 
 <p>
