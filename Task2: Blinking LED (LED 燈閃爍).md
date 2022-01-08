@@ -82,5 +82,8 @@ const是常數意思。指示之後的變數內數值是不變。<p>
  例子: byte LED = 3; <p>
 
 <h1>Function</h1><p>
-void LEDBLINK(){　｝，void Setup(){　｝、void loop(){　｝階是function。以下是宣告方法: <p>
- <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/func01.png"><p><p>
+以下是宣告方法: <p>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/func01.png"><p> 
+void LEDBLINK(){　｝，void Setup(){　｝、void loop(){　｝階是function。
+ 
+<p>
