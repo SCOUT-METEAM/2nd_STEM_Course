@@ -2,9 +2,9 @@
 <p>
 <h1>Analog & Digital</h1> 
 Arduino UNO3 控制板上有數位及類比輸入/輸出(I/O)腳位。先看看以下兩張訊號圖，了解它們的分別。<p>  
-類比<p>  
+  <B>類比</B><p>  
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/ArStrutAnalog01.png"><p> 
-數位<p>
+  <B>數位</B><p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/ArStrutDigital02.png"><p> 
 <p>
 從上述兩張圖，可以看出類比訊有連續特性。而數位訊則沒有，只有"有"及"沒有"即1 或0 二種分割特性。<p>
