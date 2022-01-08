@@ -18,5 +18,5 @@ Arduino UNO3 控制板上有數位及類比輸入/輸出(I/O)腳位。先看看�
  
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/ArStrutSpec01.png"><p>   
 <p>
-Ref:<p>
+  <B>Ref:</B><p>
 Arduino UNO R3 (https://docs.arduino.cc/hardware/uno-rev3)
