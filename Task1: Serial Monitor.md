@@ -21,12 +21,13 @@ Serial.println("Test02");   //println是例印完後便隔行
 <h1>Arduino Coding Explanation</h1><p>
 以上Arduino Coding十分簡單，只要有兩或三句程式便可以印出資料。<p>
 <B>第一句:</B><p>
-<B>Serial.begin(115200);</B>是啟動Serial Communication並設定傳送速度(baud rate)為115200。這句包含.begin() function，通常放在Void Setp()內。因為Void Setp(){}內的程式，當Arduino UNO3一通電後只會執行<B>一次</B>。電子零件，啟動一次已足夠了，不需要重覆。<p><B>Serial同begin()是關鍵字，不能改，大小寫要跟足。</B>begin()是function，已內嵌在Arduino IDE內並屬於Serial這個CLASS之下。所以Serial同begin()之間要有<B>"."</B>連接。<p> 
+<B>Serial.begin(115200);</B>是啟動Serial Communication並設定傳送速度(baud rate)為115200。這句包含.begin() function，通常放在Void Setp()內。因為Arduino IDE預先設定Void Setp(){ }內的程式，當Arduino UNO3一通電後只會執行<B>一次</B>。電子零件，啟動一次已足夠了，不需要重覆。<p>
+<B>Serial同begin()是關鍵字，不能改，大小寫要跟足。</B>begin()是function，已內嵌在Arduino IDE內並屬於Serial這個CLASS之下。所以Serial同begin()之間要有<B>"."</B>連接。<p> 
 從造個例子，可以知道.begin() function就是有啟動功能。在其它Library，如DHT11 Library，也有.begin()的function。而這個.begin()，在建立物件後通常放在Void Setp()內。當Arduino UNO3一通電後，便可以即時啟動<B>一次</B>，使到DHT11 溫度濕度感應器可以在Arduino UNO3通電後即時啟動，並進行之後量度。
 <p>
 <B>第二/三句:</B><p>  
 <B>Serial.print("Test01"); 及Serial.println("Test02"); </B>.print()是例印，印出()內的文字(String)。()內的文字需要有""包住。而.println()也是例印，印出()內的文字。但是，例印後，會自動跳行。
 <p> 
-void loop(){}有不斷重覆功能，void loop(){}內的程式，將會不斷地執行。<p> 
+void loop(){ }是looping function，Arduino IDE設定有不斷重覆功能。因此，void loop(){ }內的程式，將會不斷地執行。小編將這兩句printing程式放在void loop(){ }內，是想給大家看有怎樣結果。<p> 
 <h1>應用例子</h1><p>
 以下是使用DHT11讀取溫濕資料並顯示在Serial Monitor內。  
