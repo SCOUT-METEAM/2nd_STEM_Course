@@ -34,7 +34,10 @@
   /*<br>
   ABCD<br>
   EFGH<br>
-  */<br>
+  */
+<p>
+編譯器 (Compiler)![image](https://user-images.githubusercontent.com/95029626/148638802-8748dc5a-800c-48c9-a506-f0627a56d3a2.png)
+  
 Ref: <br>
 Install the Arduino Software (IDE) on Windows PCs<br>
 https://www.arduino.cc/en/Guide/Windows#proceed-with-board-specific-instructions
