@@ -71,3 +71,5 @@ void loop()
 }
 
 </pre></code>
+  
+打開Serial Monitor會看到以下DHT11讀數<p>
