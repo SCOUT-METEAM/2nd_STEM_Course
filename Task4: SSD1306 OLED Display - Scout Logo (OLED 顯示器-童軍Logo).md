@@ -4,7 +4,7 @@
 <B>方法1: 在Arduino IDE下載。</B><p>
 在Arduino IDE library搜尋器內(Tools\Manage Libraries…)，輸入SSD1306，按下”輸入鍵”後，便會例出相關資料。<p>
 
-選擇由Adafruit開發及他的最新version，並按下Install鍵安裝。<p>
+選擇由Adafruit開發及他的version 2.5，並按下Install鍵安裝。<p>
 
 <B>方法2: 從以下GITHUB直接下載及安裝</B><P>
 Please download following libraries and install it into Arduino IDE first.
