@@ -86,6 +86,8 @@ const是常數意思。指示之後的變數內數值是不變。<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/func01.png"><p> 
 傳回資料型態是變數型態，是關鍵字，要根據程式語言設定輸入。大小寫跟足，不能亂改。而名稱則可以，可自己改名。<p> 
 本章程式例子，可見有void LEDBLINK(){　｝，void Setup(){　｝、void loop(){　｝階是function。 而當中的void就是其中一種傳回資料型態。但是，void只是執行，不會傳回(輸出)任何數值。<p> 
+當我們在其他地方想引用有關function，可以CALL有關function。正如本章中的Arduino Coding內，這句LEDBLINK();就是CALL回有關LEDBLINK() function。
 以下是另一款有傳回值的例子: <p> 
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/func02.png"><p> 
 <p>
+Function寫好，可以
