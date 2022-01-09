@@ -4,7 +4,7 @@ Arduino IDE內，有一個工具，名稱是Serial Monitor。可以在   打開�
 如要使用Serial Monitor，我們首先要用USB線連接Arduino UNO3，並編寫有關程式及設定相關Baud Rate。這個Serial Monitor是透過Serial Communication傳送資料，而Serial Communical是IBM上世紀產物，用作電子儀器之間的通訊。現在電腦少用COMPORT了，這些COMPORT都是Serial Communication。<p>
 Serial Communication在通訊時，電子儀器之間需要有共同的Baud Rate，即每秒有多少bit Data傳送。而Baud Rate不是胡亂自已設定，需按特定數值設定。小編通常記下兩個數值，115200及9600。有關數值，其實可以在Arduino IDE的Serial Monitor右下角找到(要先連接Arduino UNO3)。<B>如程式內的Serial.begin()設定了115200數值，Serial Monitor的Baud Rate也要選擇一樣數值。如果不同，會出現亂碼。</B><p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/SL001.png"><p>
-<p>
+<p>在Arduino IDE底部，可以看到有2行文字，這是告訴大家使用了多少儲存及記憶體空間空問。
 <p>
   
 <h1>Arduino Coding</h1>
