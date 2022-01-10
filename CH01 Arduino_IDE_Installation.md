@@ -33,7 +33,7 @@
   如有多行comments，可以使用/* */。我們會先用/*作開首，*/作結。<br>
   /*<br>
   This is METEAM Course.<br>
-  This is Arduino Course.>
+  This is Arduino Course.><br>
   */
 <p>
 <B>編譯器 (Compiler)</B><p>
