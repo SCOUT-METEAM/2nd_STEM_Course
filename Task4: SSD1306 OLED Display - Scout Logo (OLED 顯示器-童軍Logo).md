@@ -14,6 +14,13 @@
  
 <h1>Connection Map 連接圖</h1><p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/OLED_bb.png"><P>
+<table><tr><td>Arduino UNO3</td><td>OLED</td></tr>
+<tr><td>5V</td><td>VCC</td></tr>	
+<tr><td>GND</td><td>GND</td></tr>
+<tr><td>A4</td><td>SDA</td></tr>
+<tr><td>A5</td><td>SCL</td></tr>	
+</table> 
+<P> 
 <h1>Library</h1>
 <i>有關下載及安裝Library，可以參考<a href="https://github.com/SCOUT-METEAM/1st_STEM_Course/blob/main/CH05%20Library%20Installation%20in%20Arduino%20IDE.md">CH05 Library Installation in Arduino IDE<a></i><p>
   
