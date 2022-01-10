@@ -7,7 +7,7 @@
 
 #include "DHT.h"
 
-#define DHTPIN 2     // Digital pin connected to the DHT sensor
+#define DHTPIN 15     // Digital pin connected to the DHT sensor
 
 #define DHTTYPE DHT11  // DHT 11
 
