@@ -32,8 +32,8 @@
   //是代表comments，//之後的文字是不會被Arduino IDE編釋，會自動跳過。因此，Comments可以用作記錄有關程式註解。<br>
   如有多行comments，可以使用/* */。我們會先用/*作開首，*/作結。<br>
   /*<br>
-  ABCD<br>
-  EFGH<br>
+  This is METEAM Course.<br>
+  This is Arduino Course.>
   */
 <p>
 <B>編譯器 (Compiler)</B><p>
