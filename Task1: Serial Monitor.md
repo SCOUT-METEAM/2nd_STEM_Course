@@ -37,4 +37,5 @@ void loop(){ }是looping function，Arduino IDE設定有不斷重覆功能。因
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/SL002b.png"><p>
 在Arduino IDE底部，可以看到有2行文字，這是告訴大家使用了多少儲存及記憶體空間空問。<p>
 <h1>應用例子</h1><p>
-以下是使用DHT11讀取溫濕資料並顯示在Serial Monitor內。  
+以下是使用DHT11讀取溫濕資料並顯示在Serial Monitor內。<p>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/DHT11001.png"><p>
