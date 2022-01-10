@@ -1,6 +1,6 @@
 #include "DHT.h"     //引入DHT11 Library
 
-#define DHTPIN 2     // 設定連接DHT11感應器的數位腳位
+#define DHTPIN 15     // 設定連接DHT11感應器的數位腳位
 
 #define DHTTYPE DHT11   // 設定DHT 感應器類型
 
