@@ -25,7 +25,7 @@ Serial.println("METEAM");   //println是例印完後便隔行
 以上Arduino Coding十分簡單，只要有兩或三句程式便可以印出資料。<p>
 <B>第一句:</B><p>
 Serial.begin(115200);是啟動Serial Communication並設定傳送速度(baud rate)為115200。這句包含.begin() function，通常放在Void Setp()內。因為Arduino IDE預先設定Void Setp(){ }內的程式，當Arduino UNO3一通電後只會執行<B>一次</B>。電子零件，啟動一次已足夠了，不需要重覆。<p>
-<B>Serial同begin()是關鍵字，不能改，大小寫要跟足。</B>begin()是function，已內嵌在Arduino IDE內並屬於Serial之下。所以Serial同begin()之間要有<B>"."</B>連接。<p> 
+<B>Serial同begin()是關鍵字，不能改，大小寫要跟足。</B>begin()是function，已內嵌在Arduino IDE內並屬於Serial之下。<B>所以Serial同begin()之間要有<B>"."</B>連接。</B><p> 
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/SL003.png">
 <p>
 在其它Library，如DHT11 Library，也有.begin()的function。而這個.begin()，在建立物件後也通常放在Void Setp()內。當Arduino UNO3一通電後，便可以即時啟動<B>一次</B>，使到DHT11 溫度濕度感應器可以在Arduino UNO3通電後即時啟動，並進行之後量度。
