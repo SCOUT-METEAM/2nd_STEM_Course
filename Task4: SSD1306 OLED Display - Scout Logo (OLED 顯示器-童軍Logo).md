@@ -13,7 +13,7 @@
 7) SSD1306 OLED 單色顯示器 X 1<br>
  
 <h1>Connection Map 連接圖</h1><p>
-
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/OLED_bb.png"><P>
 <h1>Library</h1>
 <i>有關下載及安裝Library，可以參考<a href="https://github.com/SCOUT-METEAM/1st_STEM_Course/blob/main/CH05%20Library%20Installation%20in%20Arduino%20IDE.md">CH05 Library Installation in Arduino IDE<a></i><p>
   
