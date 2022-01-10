@@ -89,3 +89,4 @@ void loop()
 </pre></code>
   
 打開Serial Monitor會看到以下DHT11讀數<p>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/DHT11001.png"><p>
