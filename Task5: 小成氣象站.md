@@ -15,6 +15,19 @@
  
 <h1>Connection Map 連接圖</h1><p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AWS.png"><p>
+<table><tr><td><B>Arduino UNO3</B></td><td><B>DHT11</B></td></tr>
+<tr><td>3.3V</td><td>VCC</td></tr>	
+<tr><td>GND</td><td>GND</td></tr>		
+<tr><td>A1</td><td>DAT</td></tr>
+</table>
+
+<table><tr><td><B>Arduino UNO3</B></td><td><B>OLED</B></td></tr>
+<tr><td>5V</td><td>VCC</td></tr>	
+<tr><td>GND</td><td>GND</td></tr>
+<tr><td>A4</td><td>SDA</td></tr>
+<tr><td>A5</td><td>SCL</td></tr>	
+</table> 
+<p> 
 <h1>Arduino Coding</h1>
 <pre><code>
 
