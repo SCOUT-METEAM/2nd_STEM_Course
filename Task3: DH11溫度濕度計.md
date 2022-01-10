@@ -16,7 +16,7 @@
 <table><tr><td><B>Arduino UNO3</B></td><td><B>DHT11</B></td></tr>
 <tr><td>3.3V</td><td>VCC</td></tr>	
 <tr><td>GND</td><td>GND</td></tr>		
-<tr><td>A1</td><td>DA</td></tr>	 
+<tr><td>A1</td><td>DAT</td></tr>	 
 </table>
 <p>
 <h1>Library安裝</h1>
