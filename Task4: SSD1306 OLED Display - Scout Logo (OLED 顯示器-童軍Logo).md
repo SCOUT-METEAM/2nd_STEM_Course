@@ -17,8 +17,8 @@
  <table><tr><td><B>Arduino UNO3</B></td><td><B>OLED</B></td></tr>
 <tr><td>5V</td><td>VCC</td></tr>	
 <tr><td>GND</td><td>GND</td></tr>
-<tr><td>A4</td><td>SDA</td></tr>
-<tr><td>A5</td><td>SCL</td></tr>	
+<tr><td>A4</td><td>SCL</td></tr>
+<tr><td>A5</td><td>SDA</td></tr>	
 </table> 
 <P> 
 <h1>Library</h1>
