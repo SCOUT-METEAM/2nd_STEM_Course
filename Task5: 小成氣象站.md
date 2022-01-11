@@ -14,7 +14,7 @@
 9) SSD1306 OLED 單色顯示器 X 1<br>
  
 <h1>Connection Map 連接圖</h1><p>
-<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AWS_bb.png"><p>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AWS_bb2.png"><p>
 <table><tr><td><B>Arduino UNO3</B></td><td><B>DHT11</B></td></tr>
 <tr><td>3.3V</td><td>VCC</td></tr>	
 <tr><td>GND</td><td>GND</td></tr>		
