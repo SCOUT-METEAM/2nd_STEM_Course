@@ -36,7 +36,7 @@
  R=150Ω<br>
  
 <h1>Connection Map 連接圖</h1><p>
-<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/T02LED.png" alt="right"><p>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/T02LED02.png" alt="right"><p>
 
  <B>Arduino UNO3使用腳位: GND，3</B> 
   
