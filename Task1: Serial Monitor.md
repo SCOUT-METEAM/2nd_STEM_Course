@@ -34,7 +34,7 @@ Serial.begin(115200);是啟動Serial Communication並設定傳送速度(baud rat
 <B>Serial.print("ScoutHK"); 及Serial.println("METEAM"); </B>階是例印，有例印功能。想例印的文字(String)要放在()內<B>並需要有""包住</B>。兩句不同之處是.print()只是例印，印出文字後便完成。而.println()則在印出()內的文字後，會自動跳行。
 <p> 
 void loop(){ }是looping function，Arduino IDE設定有不斷重覆功能。因此，void loop(){ }內的程式，將會不斷地執行。小編將這兩句printing程式放在void loop(){ }內，是想給大家看有怎樣結果。<p> 
- ![alt text]([https://github.com/SCOUT-METEAM/2nd_STEM_Course/notes/picture/SL002b.png](https://github.com/SCOUT-METEAM/2nd_STEM_Course/blob/main/notes/pictures/SL002b.png)?raw=true)
+ ![alt text]([https://github.com/SCOUT-METEAM/2nd_STEM_Course/notes/picture/SL002b.png](https://github.com/SCOUT-METEAM/2nd_STEM_Course/blob/main/notes/pictures/SL002b.png?raw=true)
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/SL002b.png"><p>
 在Arduino IDE底部，可以看到有2行文字，這是告訴大家使用了多少儲存及記憶體空間空問。<p>
 <h1>應用例子</h1><p>
