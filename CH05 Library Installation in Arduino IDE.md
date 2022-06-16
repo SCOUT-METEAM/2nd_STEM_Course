@@ -37,4 +37,5 @@ A)可以在Arduino IDE，按下Sketch\Include Library\Add .ZIP Library 並選擇
 又或在File\Examples內看到。<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AL07.png"><p>
   
-B)第2個方法是打開下載ZIP檔案， 複製ZIP檔案內的檔案入Arduino Library 目錄內(注意，不是下載的ZIP檔案)。即在早前安裝Arduino IDE時，提及的安裝路徑。一般是C:\Program Files (x86)\Arduino\libraries。重新啟動Arduino IDE軟件。與之前A)章節一樣，檢查library及Examples。<p>
+B)<h2>直接解壓ZIP檔案</h2><p>
+第2個方法是打開下載ZIP檔案， 複製ZIP檔案內的檔案入Arduino Library 目錄內(注意，不是下載的ZIP檔案)。即在早前安裝Arduino IDE時，提及的安裝路徑。一般是C:\Program Files (x86)\Arduino\libraries。重新啟動Arduino IDE軟件。與之前A)章節一樣，檢查library及Examples。<p>
