@@ -99,3 +99,50 @@ void loop()
   }
 }
 </code></pre><p>
+
+<h1>Arduino Coding 程式碼(混合2種色)01/h1>
+<pre><code>
+void setup() 
+{
+  for(byte i=2;i<=4;i++)
+  {
+   pinMode(i, OUTPUT);
+  }
+}
+
+void loop() 
+{
+  digitalWrite(2, HIGH);
+  digitalWrite(4, HIGH);
+  delay(1000);
+  digitalWrite(2, LOW);
+  digitalWrite(4, LOW);
+  delay(1000);
+}
+</code></pre><p>
+ 
+<h1>Arduino Coding 程式碼(混合2種色)02/h1>
+<pre><code>
+void setup() 
+{
+  for(byte i=2;i<=4;i++)
+  {
+   pinMode(i, OUTPUT);
+  }
+}
+
+void loop() 
+{
+  for(byte i=2;i<=4;i=i+2)
+  {
+  digitalWrite(i, HIGH);
+  }
+  delay(1000);
+  
+  for(byte i=2;i<=4;i=i+2)
+  {
+  digitalWrite(i, LOW);
+  }
+  delay(1000);
+}
+</code></pre><p>
