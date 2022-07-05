@@ -16,7 +16,7 @@
 6) RGB二極發光管(燈)模塊 X 1
   
 <h1>Connection Map 連接圖</h1><p>
-<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/T02LED_b.png" alt="right"><p>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/RGB_b.png" alt="right"><p>
 
 
   
