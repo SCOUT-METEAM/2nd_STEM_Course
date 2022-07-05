@@ -100,7 +100,7 @@ void loop()
 }
 </code></pre><p>
 
-<h1>Arduino Coding 程式碼(混合2種色)01/h1>
+<h1>Arduino Coding 程式碼(混合2種色)01</h1>
 <pre><code>
 void setup() 
 {
@@ -121,7 +121,7 @@ void loop()
 }
 </code></pre><p>
  
-<h1>Arduino Coding 程式碼(混合2種色)02/h1>
+<h1>Arduino Coding 程式碼(混合2種色)02</h1>
 <pre><code>
 void setup() 
 {
