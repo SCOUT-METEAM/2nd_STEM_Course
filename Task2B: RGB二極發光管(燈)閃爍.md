@@ -42,7 +42,7 @@ void setup()
 void loop() 
 {
   digitalWrite(2, HIGH); //給予Arduino UNO3上的針腳2高電壓
-  delay(1000); //延遲1秒，1000是以微秒(ms)為單位
+  delay(1000);           //延遲1秒，1000是以微秒(ms)為單位
   digitalWrite(2, LOW); //給予Arduino UNO3上的針腳2底電壓，即沒有電
   delay(1000);
   digitalWrite(3, HIGH);
@@ -90,7 +90,7 @@ void loop()
 </code></pre><p>
  
 <h1>Arduino Coding 程式碼(RGB藍、綠、紅單色分別閃爍)03</h1>
-在 
+在這裡會使用for loop以減少重覆的程式碼。請與Arduino Coding 程式碼(RGB藍、綠、紅單色分別閃爍)01比較
 <pre><code>
 void setup() 
 {
