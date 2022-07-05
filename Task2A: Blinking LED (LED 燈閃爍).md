@@ -45,7 +45,7 @@
 <pre><code>
 const byte LED = 3;  //利用變數LED設定該變數是3(代表3號數位腳位)
 
-//閃爍FUNCTIONZ
+//閃爍FUNCTION
 void LEDBLINK()
 {
 digitalWrite(LED, HIGH); //設定那個腳位輸出是高電壓
