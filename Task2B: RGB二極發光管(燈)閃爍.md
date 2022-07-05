@@ -27,8 +27,8 @@
   
 <h1>Arduino Coding 程式碼</h1>
 <BR>
-有關RGB藍、綠、紅單色分別閃爍，有三種寫法。目的是想給讀者比較。尤其是第三種，是用了for Loop，可以減少重覆編碼(Coding)，從而減少硬體佔用空間。
-<h1>Arduino Coding 程式碼01</h1>
+有關RGB藍、綠、紅單色分別閃爍，有三種寫法。目的是想給讀者比較。尤其是第三種，是用了for Loop，可以減少重覆編碼(Coding)，從而減少硬體佔用空間。至於混合2種顏色的Coding，分別有2種供讀者比較。
+<h1>Arduino Coding 程式碼(RGB藍、綠、紅單色分別閃爍)01</h1>
 <pre><code>
 void setup() 
 {
@@ -54,7 +54,7 @@ void loop()
 }
 </code></pre><p>
 
-<h1>Arduino Coding 程式碼02</h1>
+<h1>Arduino Coding 程式碼(RGB藍、綠、紅單色分別閃爍)02</h1>
 <pre><code>
 const byte blue=2;
 const byte green=3;
@@ -84,7 +84,7 @@ void loop()
 }
 </code></pre><p>
  
-<h1>Arduino Coding 程式碼03</h1>
+<h1>Arduino Coding 程式碼(RGB藍、綠、紅單色分別閃爍)03</h1>
 <pre><code>
 void setup() 
 {
