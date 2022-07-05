@@ -78,13 +78,13 @@ void loop()
 }
 </code></pre><p>
  
- <h1>Arduino Coding 程式碼03</h1>
+<h1>Arduino Coding 程式碼03</h1>
 <pre><code>
 void setup() 
 {
   for(byte i=2;i<=4;i++)
   {
-  pinMode(i, OUTPUT);
+   pinMode(i, OUTPUT);
   }
 }
 
@@ -92,10 +92,10 @@ void loop()
 {
   for (byte i=2;i<=4;i++)
   {
-   digitalWrite(i, HIGH);
-   delay (1000);
-   digitalWrite(i, LOW);
-   delay (1000);
+    digitalWrite(i, HIGH);
+    delay (1000);
+    digitalWrite(i, LOW);
+    delay (1000);
   }
 }
 </code></pre><p>
