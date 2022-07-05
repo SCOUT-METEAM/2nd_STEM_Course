@@ -90,7 +90,7 @@ void loop()
 </code></pre><p>
  
 <h1>Arduino Coding 程式碼(RGB藍、綠、紅單色分別閃爍)03</h1>
-在這裡會使用for loop以減少重覆的程式碼。請與Arduino Coding 程式碼(RGB藍、綠、紅單色分別閃爍)01比較
+在這裡會使用for loop以減少重覆的程式碼。請與Arduino Coding 程式碼(RGB藍、綠、紅單色分別閃爍)01比較。
 <pre><code>
 void setup() 
 {
