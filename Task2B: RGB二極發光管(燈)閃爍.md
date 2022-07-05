@@ -34,16 +34,16 @@
 <pre><code>
 void setup() 
 {
-  pinMode(2, OUTPUT);
+  pinMode(2, OUTPUT); //設定Arduino UNO3上的針腳2為輸出電壓
   pinMode(3, OUTPUT);
   pinMode(4, OUTPUT);
 }
 
 void loop() 
 {
-  digitalWrite(2, HIGH);
-  delay(1000);
-  digitalWrite(2, LOW);
+  digitalWrite(2, HIGH); //給予Arduino UNO3上的針腳2高電壓
+  delay(1000); //延遲1秒，1000是以微秒(ms)為單位
+  digitalWrite(2, LOW); //給予Arduino UNO3上的針腳2底電壓，即沒有電
   delay(1000);
   digitalWrite(3, HIGH);
   delay(1000);
@@ -57,22 +57,25 @@ void loop()
 </code></pre><p>
 
 <h1>Arduino Coding 程式碼(RGB藍、綠、紅單色分別閃爍)02</h1>
+這裡是使用三個變數，分別代表三種LED輸出針腳的數值。例如Arduino UNO3上的針腳2是連接到藍色LED燈，那麼便設定為2。在這裡使用變數的好處是，如果日後改針腳連接位置，只需改動程式內開頭位置，不需改動程式內引用地方。
 <pre><code>
-const byte blue=2;
+//設定變數
+//byte是變數型態可儲存0-255數值範圍，比較細的變數，佔用記憶體也較小。const是指常數不會改。
+const byte blue=2; 
 const byte green=3;
 const byte red=4;
 
 void setup() 
 {
-  pinMode(blue, OUTPUT);
+  pinMode(blue, OUTPUT); 
   pinMode(green, OUTPUT);
   pinMode(red, OUTPUT);
 }
 
 void loop() 
 {
-  digitalWrite(blue, HIGH);
-  delay(1000);
+  digitalWrite(blue, HIGH); //在digitalWrite內放入指定變數
+  delay(1000); 
   digitalWrite(blue, LOW);
   delay(1000);
   digitalWrite(green, HIGH);
@@ -87,6 +90,7 @@ void loop()
 </code></pre><p>
  
 <h1>Arduino Coding 程式碼(RGB藍、綠、紅單色分別閃爍)03</h1>
+在 
 <pre><code>
 void setup() 
 {
