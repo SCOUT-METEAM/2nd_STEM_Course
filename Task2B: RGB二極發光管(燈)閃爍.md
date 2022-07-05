@@ -48,4 +48,54 @@ void loop()
 }
 </code></pre><p>
 
+<h1>Arduino Coding 程式碼02</h1>
+<pre><code>
+const byte blue=2;
+const byte green=3;
+const byte red=4;
 
+void setup() 
+{
+  pinMode(blue, OUTPUT);
+  pinMode(green, OUTPUT);
+  pinMode(red, OUTPUT);
+}
+
+void loop() 
+{
+  digitalWrite(blue, HIGH);
+  delay(1000);
+  digitalWrite(blue, LOW);
+  delay(1000);
+  digitalWrite(green, HIGH);
+  delay(1000);
+  digitalWrite(green, LOW);
+  delay(1000);
+  digitalWrite(red, HIGH);
+  delay(1000);
+  digitalWrite(red, LOW);
+  delay(1000);
+}
+</code></pre><p>
+ 
+ <h1>Arduino Coding 程式碼03</h1>
+<pre><code>
+void setup() 
+{
+  for(byte i=2;i<=4;i++)
+  {
+  pinMode(i, OUTPUT);
+  }
+}
+
+void loop() 
+{
+  for (byte i=2;i<=4;i++)
+  {
+   digitalWrite(i, HIGH);
+   delay (1000);
+   digitalWrite(i, LOW);
+   delay (1000);
+  }
+}
+</code></pre><p>
