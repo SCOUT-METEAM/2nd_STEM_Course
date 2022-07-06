@@ -186,7 +186,12 @@ Arduino UNO3上有一些類比訊號輸出的腳位，這些腳位名稱是PWM�
 
 <h1>Connection Map 連接圖</h1><p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/RGB_ANALOG_b.png" alt="right"><p>
-
+<table><tr><td><B>Arduino UNO3</B></td><td><B>RGB二極發光管(燈)模塊</B></td></tr>
+<tr><td>GND</td><td>GND</td></tr>	
+<tr><td>3</td><td>B</td></tr>		
+<tr><td>5</td><td>G</td></tr>	 
+<tr><td>6</td><td>R</td></tr>	 
+</table>
 <h1>Arduino 程式碼</h1><p>
 以下程式碼會透過藍色LED燈閃爍變化出不同光度。
 <pre><code>
