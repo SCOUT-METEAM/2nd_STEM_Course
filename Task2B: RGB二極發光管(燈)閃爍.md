@@ -36,9 +36,15 @@
 程式碼主要使用pinMode(), digitalWrite() 及delay()三個Arduino IDE內置程式。只要我們跟足大小階及輸入其括號內數值便可以使用。 
 <BR><BR>   
 pinMode()主要是設定工作，設定那個ARDUINO UNO3上的DIGITAL(數位)針腳將會用作電壓輸出。所以是要執行一次便可以了。因此我們會將pinMode()放在void setup(){}FUNCTION內。
-<BR> 
+<BR><BR>  
 使用pinMode()時，要在括號內輸入2個數值, 分別是那個DIGITAL針腳編號及輸出電壓指示。以ARDUINO UNO3上的2號數位針腳為例，寫法是 pinMode(2, OUTPUT)。2號數位針腳便會只是作輸出電壓。
-<BR>  
+<BR><BR>
+digitalWrite()是給予已用pinMode()設定好數位針腳輸出高電壓(有電)或底電壓(即沒有電)。digitalWrite()的括號內也輸入2個數值。分別是那個DIGITAL針腳編號及是高或底電壓。 
+<BR><BR>
+以ARDUINO UNO3上的2號數位針腳為例，如是高電壓，寫法是digitalWrite(2, HIGH)。底電壓則是digitalWrite(2, LOW)。我們會使用這兩者交替，使LED燈閃爍。
+<BR><BR>
+最後是delay()，造個是延遲。而括號內就是設定時間，時間預設單微秒(ms)。所以delay(1000)是延遲1秒。  
+<BR><BR>  
 <h1>Arduino Coding 程式碼(RGB藍、綠、紅單色分別閃爍)01</h1>
 <pre><code>
 void setup() 
