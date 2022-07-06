@@ -45,6 +45,7 @@
 <BR><BR>
 最後是<B>delay()</B>，造個是延遲。而括號內就是設定時間，時間預設單微秒(ms)。所以delay(1000)是延遲1秒。  
 <BR><BR>  
+注意: 讀者會見到程式碼內有<B>;</B>位置。分號作用是代表完結。我們會執行一次FUNCTION，如 delay(1000)後便加一個分號。<BR><BR>  
 <h1>Arduino Coding 程式碼(RGB藍、綠、紅單色分別閃爍)01</h1>
 <pre><code>
 void setup() 
