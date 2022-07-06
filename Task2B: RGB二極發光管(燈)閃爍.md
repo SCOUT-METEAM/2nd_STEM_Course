@@ -6,6 +6,8 @@
 1) 認識模塊及使用。
 2) 學習如何在Arduino IDE 編寫程式，使LED 燈閃爍。
 3) 學習如何將已編寫好的程式上傳到Arduino 控制板。
+4) 學習digital 及 analog 訊號分別。
+5) 認識digital及PWM腳位。 
  
 <p>
  
