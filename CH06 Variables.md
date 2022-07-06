@@ -7,7 +7,7 @@ Arduino的變數型態(DATA TYPE)有不同種類，以下供大家參考。Ardui
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/T02LED02b.png"><p><p>
 從上圖中，可見byte所佔的空間比int小。的確，在Arduino UNO3，byte所佔空間是8 bit(可裝0-255數值)，而int所佔空間是16 bit(可裝-32,768至32767數值)。<B>byte及int階是屬於整數，不能裝小數。如要裝小數，就要用float。</B><p>
 正如本章例子的coding，我們會在開首利用變數LED裝住3這個常數(constant)數值。在之後的程式碼，當遇到要用3這個數字的地方，可以輸入該變數名稱，程式便自然將3放入該地方。這好處是，如果日後要改變3這個數值，只需要在開首該變數設定地方更改一次便可以了。
-上述利用變數，在開首定義一個常數數值，其實可以用#define來做。其實，用#define好處是可減少記憶體佔用空間。例子#define LED 3。<p>
+上述利用變數，在開首定義一個常數數值，其實可以用#define來做。用#define好處是可減少記憶體佔用空間。例子 #define LED 3。<p>
 
 const是常數意思。指示之後的變數內數值是不變。<p>
  
