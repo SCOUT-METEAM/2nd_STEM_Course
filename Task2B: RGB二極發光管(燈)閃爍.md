@@ -71,7 +71,7 @@ void loop()
   delay(1000);
 }
 </code></pre><p>
-當在ARDUINO IDE按下除錯或上傳按鈕後，使會看到佔用了多少硬件資源。 <p>
+當在ARDUINO IDE按下除錯或上傳按鈕後，便會看到佔用了多少硬件資源。 <p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/Task2B_IDE01.png" alt="right"><p>
 <B>Compiling:</B> 當我們寫完程式後，IDE在上傳到UNO3前要將程式轉換成機械碼1010....供UNO3執行。compiling就是這意思!<p>
 <h1>Arduino Coding 程式碼(RGB藍、綠、紅單色分別閃爍)02</h1>
