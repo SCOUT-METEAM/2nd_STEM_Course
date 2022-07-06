@@ -32,6 +32,12 @@
 <h1>Arduino Coding 程式碼</h1>
 <BR>
  有關<B>"RGB藍、綠、紅單色分別閃爍"，有三種寫法</B>。目的是想給讀者比較。尤其是第三種，是用了for Loop，可以減少重覆編碼(Coding)，從而減少硬體佔用空間。至於<B>"混合2種顏色"</B>的Coding，分別有2種供讀者比較。在這裡，會使用藍及紅LED燈會同時著，結果會出現紫色。
+<BR> 
+程式碼主要使用pinMode(), digitalWrite() 及delay()三個Arduino IDE內置程式。只要我們跟足大小階及輸入其括號內數值便可以使用。 
+<BR>  
+pinMode()主要是設定工作，設定那個ARDUINO UNO3上的DIGITAL(數位)針腳將會用作電壓輸出。所以是要執行一次便可以了。因此我們會將pinMode()放在void setup(){}FUNCTION內。
+使用pinMode()時，要在括號內輸入2個數值, 分別是那個DIGITAL針腳編號及輸出電壓指示。以ARDUINO UNO3上的2號數位針腳為例，寫法是 pinMode(2, OUTPUT)。2號數位針腳便會只是作輸出電壓。
+<BR>  
 <h1>Arduino Coding 程式碼(RGB藍、綠、紅單色分別閃爍)01</h1>
 <pre><code>
 void setup() 
