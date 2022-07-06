@@ -1,4 +1,4 @@
-<h1>Task 2B. RGB二極發光管(燈)模塊閃爍</h1><p>
+<h1>Task 2B. RGB二極發光管(燈)模塊閃爍及控制LED 燈光暗</h1><p>
 
 二極發光管(LED燈)需要接駁一個電阻以防止LED燈燒掉。有關內容可參考Task2A: Blinking LED (LED 燈閃爍)的Resistor電阻章節。此實驗採用的RGB二極發光管模塊已經內嵌電阻。
  
