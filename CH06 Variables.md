@@ -11,5 +11,5 @@ Arduino的變數型態(DATA TYPE)有不同種類，以下供大家參考。Ardui
 <B>變數資料型態   變數名稱(可以自己改)</B><p>
 <B>***變數資料型態是關鍵字，要根據程式語言設定輸入。大小寫跟足，不能亂改。</B> <p>
  例子: byte LED = 3; <p>  
-  
+<B>#define</B>  
 其實也可以用#define來做。用#define好處是可減少記憶體佔用空間。例子 #define LED 3。當在之後的程式碼內，引用該名稱LED，有關位置便在COMPILING前變成DEFINE內LED的數值。所以#define不是變數，只是在COMPILING前自動更改有關引用地方後才COMPILING。<p> 
