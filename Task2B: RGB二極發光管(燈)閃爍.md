@@ -177,3 +177,22 @@ void loop()
 }
 </code></pre><p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/Task2B_IDE05.png" alt="right"><p>
+
+<B><h1>控制LED燈光度</h1></B>
+<pre><code>
+void setup() {
+pinMode(3,OUTPUT);
+}
+
+void loop() {
+analogWrite(3,10);
+delay(1000);
+analogWrite(3,0);
+analogWrite(3,100);
+delay(1000);
+analogWrite(3,0);
+analogWrite(3,255);
+delay(1000);
+analogWrite(3,0);
+}
+</code></pre><p>
