@@ -179,6 +179,8 @@ void loop()
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/Task2B_IDE05.png" alt="right"><p>
 
 <B><h1>控制LED燈光度</h1></B>
+如果使用上述digitalWrite()，有沒有發覺LED燈的光度只有一種，不能調較?這是digitalWrite()數位訊號的問題。因為數位只有高與底，沒有連續特性。如果要做到有不同光暗效果，我們便要使用有連續特性的Analog(類比訊號)。<BR>
+
 <pre><code>
 void setup() {
 pinMode(3,OUTPUT);
