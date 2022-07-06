@@ -73,7 +73,7 @@ void loop()
 </code></pre><p>
 當在ARDUINO IDE按下除錯或上傳按鈕後，使會看到佔用了多少硬件資源。 <p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/Task2B_IDE01.png" alt="right"><p>
-compiling: 當我們寫完程式後，IDE在上傳到UNO3前要將程式轉換成機械碼1010....供UNO3執行。compiling就是這意思!<p>
+<B>compiling:</B> 當我們寫完程式後，IDE在上傳到UNO3前要將程式轉換成機械碼1010....供UNO3執行。compiling就是這意思!<p>
 <h1>Arduino Coding 程式碼(RGB藍、綠、紅單色分別閃爍)02</h1>
 這裡是使用三個變數(Variables)，分別代表三種LED輸出針腳的數值。例如Arduino UNO3上的針腳2是連接到藍色LED燈，那麼便設定為2。在這裡使用變數的好處是，如果日後改針腳連接位置，只需改動程式內開頭位置，不需改動程式內引用地方。<BR><BR>使用變數需要設定變數類型(如byte)。變數類型是程式語言預先設定好的數值, 尤其是變數大小，讀者可參考<B>CH06 Variables</B>。變數類型會加在自己命名的變數名稱前，並以空格分開。使用那種變數類型，主要考慮硬體資源，尤其是記憶體大小及該變數將會裝多少數值。如以此例子，我們預計放入變數內的數值最大是個位正數，所以byte已足夠。因為byte儲存數值範圍是8bit，即0-255數值範圍。讀者要留意，每建立一個變數，便會在記憶體建立一個實體空間供該變數使用。
 <pre><code>
