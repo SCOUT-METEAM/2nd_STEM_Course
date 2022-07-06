@@ -1,5 +1,5 @@
-<h1>Variables Data Types</h1><p>
-Arduino的變數型態(DATA TYPE)有不同種類，以下供大家參考。Arduino特意修改了一些變數型態，與一般程式所使用的變數型態不同。目的是適合他們不同種類的控制板使用。<p>
+<h1>變數資料型態(Variables Data Types)</h1><p>
+Arduino的變數資料型態(DATA TYPE)有不同種類，以下供大家參考。Arduino特意修改了一些變數資料型態，與一般程式所使用的變數資料型態不同。目的是適合他們不同種類的控制板使用。<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/variable01b.png"><p>
 <h1>變數(Variables)</h1><p>
 變數，在程式編寫時會經常用到。可以想像，變數是一個紙箱，用來裝東西。但是這個紙箱有不同大小。<p>在程式編寫實際例子，變數可用來裝數值、文字等。而變數有不同大小。但是，該大小是由程式語言預設，不能更改。所以，要認識不同變數型態(Data Types)及運用。<p>
