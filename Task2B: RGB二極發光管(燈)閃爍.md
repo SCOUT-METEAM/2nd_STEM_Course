@@ -179,8 +179,8 @@ void loop()
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/Task2B_IDE05.png" alt="right"><p>
 
 <B><h1>控制LED燈光度</h1></B>
-如果使用上述digitalWrite()，有沒有發覺LED燈的光度只有一種，不能調較?這是digitalWrite()數位訊號的問題。因為數位只有高與底，沒有連續特性。如果要做到有不同光暗效果，我們便要使用有連續特性的Analog(類比訊號)。<BR>
-Arduino UNO3上有一些類比訊號輸出的腳位，這些腳位名稱是PWM。這些輸出腳位有~形標記，分別是3, 5, 6, 9, 10, 11。另外，在程式碼內，我們使用analogWrite()作有關使用。analogWrite()內需要輸入2個數值，分別是腳位及類比訊號強度。有關強度數值是0-255。這樣我們便可以控制LED燈光度了。
+如果使用上述digitalWrite()，有沒有發覺LED燈的光度只有一種，不能調較?這是digitalWrite()數位訊號的問題。因為數位只有高與底，沒有連續特性。如果要做到有不同光暗效果，我們便要使用<B>有連續特性的Analog(類比訊號)</B>。<BR>
+Arduino UNO3上有一些類比訊號輸出的腳位，這些腳位名稱是PWM。這些輸出腳位有<B>~形標記，分別是3, 5, 6, 9, 10, 11</B>。另外，在程式碼內，我們使用<B>analogWrite()作有關使用。analogWrite()內需要輸入2個數值，分別是腳位及類比訊號強度。有關強度數值是0-255<B>。這樣我們便可以控制LED燈光度了。
 
 <pre><code>
 void setup() 
