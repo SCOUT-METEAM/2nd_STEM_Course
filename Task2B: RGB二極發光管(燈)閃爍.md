@@ -183,11 +183,13 @@ void loop()
 Arduino UNO3上有一些類比訊號輸出的腳位，這些腳位名稱是PWM。這些輸出腳位有~形標記，分別是3, 5, 6, 9, 10, 11。另外，在程式碼內，我們使用analogWrite()作有關使用。analogWrite()內需要輸入2個數值，分別是腳位及類比訊號強度。有關強度數值是0-255。這樣我們便可以控制LED燈光度了。
 
 <pre><code>
-void setup() {
+void setup() 
+{
 pinMode(3,OUTPUT);
 }
 
-void loop() {
+void loop() 
+{
 analogWrite(3,10);
 delay(1000);
 analogWrite(3,0);
