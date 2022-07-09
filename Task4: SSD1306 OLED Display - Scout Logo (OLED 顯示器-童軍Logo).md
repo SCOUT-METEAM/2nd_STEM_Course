@@ -194,7 +194,7 @@ void drawingtest(void)
 {
   display.clearDisplay();
   //顯示圖形，x,y,圖形文字,寬,高,1:OLED預設的顏色(這個會依該OLED的顏色來決定)
-  for(int i=128;i>=0;i--)
+  for(int i=128;i>=0;i--) //開始值是128，每次行完1次FOR LOOP後減1，直到0
   {
     display.drawBitmap(i,0,logo_draw, 128, 64, 1);
     display.display();  // 要有這行才會把文字顯示出來
@@ -203,4 +203,4 @@ void drawingtest(void)
   }
 </pre><code>
 
-如果圖像不斷向左走，當走完整個圖像，又出現新圖像向左走，你們會怎樣改?
+如果圖像不斷向左走，當走完整個圖像，又出現新圖像向左走，你們會怎樣改? <B>詳情請參考ARDUINO CODING</B>
