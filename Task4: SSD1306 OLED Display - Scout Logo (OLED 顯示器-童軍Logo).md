@@ -13,7 +13,7 @@
 7) SSD1306 OLED 單色顯示器 X 1<br>
  
 <h1>Connection Map 連接圖</h1><p>
-<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/OLED.png"><P>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/OLED02.png"><P>
  <table><tr><td><B>Arduino UNO3</B></td><td><B>OLED</B></td></tr>
 <tr><td>5V</td><td>VCC</td></tr>	
 <tr><td>GND</td><td>GND</td></tr>
@@ -28,7 +28,7 @@
 在Arduino IDE library搜尋器內(Tools\Manage Libraries…)，輸入SSD1306，按下”輸入鍵”後，便會例出相關資料。<p>
 
 選擇由Adafruit開發及他的version 2.5，並按下Install鍵安裝。<p>
-<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/OLED001d.png"><P>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/OLED001c.png"><P>
 <B>方法2: 從以下GITHUB直接下載及安裝</B><P>
 Please download following libraries and install it into Arduino IDE first.
 <br>
