@@ -188,7 +188,7 @@ https://www.arduino.cc/reference/en/language/variables/utilities/progmem/
 <pre><code>
 void drawingtest(void)
 {
-display.clearDisplay();
+  display.clearDisplay();
   //顯示圖形，x,y,圖形文字,寬,高,1:OLED預設的顏色(這個會依該OLED的顏色來決定)
   for(int i=128;i>=0;i--)
   {
