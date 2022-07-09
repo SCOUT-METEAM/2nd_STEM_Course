@@ -202,3 +202,5 @@ void drawingtest(void)
     display.clearDisplay();
   }
 </pre><code>
+
+如果圖像不斷向左走，當走完整個圖像，又出現新圖像向左走，你們會怎樣改?
