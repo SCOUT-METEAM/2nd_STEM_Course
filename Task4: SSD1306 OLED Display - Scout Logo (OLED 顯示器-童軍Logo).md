@@ -3,6 +3,7 @@
 1) 認識及使用SSD1306 OLED 顯示器顯示圖像-童軍Logo<br>
 2) 認識及及安裝有關Library<br>
 3) 認識程式編寫<br>
+4) 利用FOR LOOP使圖像移動 
 <p>
 <B>工具:</B><p>
 1) Arduino UNO Rev3 控制板X 1<br>
