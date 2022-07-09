@@ -185,10 +185,10 @@ https://www.arduino.cc/reference/en/language/variables/utilities/progmem/
 
 
 <h1>圖像移動</h1>
-如果我們<B>更改顯示圖形 FUNCTION</B>的內容，加入以下程式又會怎樣?
-A) 加入FOR LOOP，將水平顯示位置放入變數i
-B) delay()括號內改10;
-C) 加入display.clearDisplay()在FOR LOOP最後;
+如果我們<B>更改顯示圖形 FUNCTION</B>的內容，加入以下程式又會怎樣?<br>
+A) 加入FOR LOOP，將水平顯示位置放入變數i<br>
+B) delay()括號內改10;<br>
+C) 加入display.clearDisplay()在FOR LOOP最後;<br>
 <pre><code>
 void drawingtest(void)
 {
