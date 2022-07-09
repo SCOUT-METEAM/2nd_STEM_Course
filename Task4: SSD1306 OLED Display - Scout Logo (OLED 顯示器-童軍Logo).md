@@ -180,3 +180,19 @@ void drawingtest(void)
 Ref:<br>
 PROGMEM <br>- Store data in flash (program) memory instead of SRAM. <br>
 https://www.arduino.cc/reference/en/language/variables/utilities/progmem/
+
+
+<h1>圖像移動</h1>
+<pre><code>
+void drawingtest(void)
+{
+display.clearDisplay();
+  //顯示圖形，x,y,圖形文字,寬,高,1:OLED預設的顏色(這個會依該OLED的顏色來決定)
+  for(int i=128;i>=0;i--)
+  {
+    display.drawBitmap(i,0,logo_draw, 128, 64, 1);
+    display.display();  // 要有這行才會把文字顯示出來
+    delay(10);
+    display.clearDisplay();
+  }
+</pre><code>
