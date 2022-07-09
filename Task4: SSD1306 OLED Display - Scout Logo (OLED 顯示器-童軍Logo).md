@@ -164,6 +164,7 @@ void loop()
   
 }
 
+//顯示圖形 FUNCTION
 void drawingtest(void) 
 {
   display.clearDisplay();
@@ -183,6 +184,7 @@ https://www.arduino.cc/reference/en/language/variables/utilities/progmem/
 
 
 <h1>圖像移動</h1>
+如果我們<B>更改顯示圖形 FUNCTION</B>的內容，加入FOR LOOP又會怎樣，將水平顯示位置放入變數i又會怎樣?
 <pre><code>
 void drawingtest(void)
 {
