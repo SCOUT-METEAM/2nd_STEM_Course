@@ -155,6 +155,7 @@ void loop()
 </code></pre><p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/Task2B_IDE04.png" alt="right"><p> 
 <h1>Arduino Coding 程式碼(混合2種色)02</h1>
+我們又試下如何利用FOR LOOP改一改。
 <pre><code>
 void setup() 
 {
