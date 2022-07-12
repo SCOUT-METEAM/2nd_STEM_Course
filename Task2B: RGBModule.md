@@ -133,6 +133,7 @@ void loop()
 </code></pre><p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/Task2B_IDE03.png" alt="right"><p>
 <h1>Arduino Coding 程式碼(混合2種色)01</h1>
+如果兩粒LED燈同時著，會出現甚麼顏色的光線? 我們利用以下程式，將紅藍LED燈同時著。
 <pre><code>
 void setup() 
 {
