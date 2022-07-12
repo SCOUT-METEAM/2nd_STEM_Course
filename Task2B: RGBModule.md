@@ -110,7 +110,7 @@ void loop()
 </code></pre><p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/Task2B_IDE02.png" alt="right"><p>
 <h1>Arduino Coding 程式碼(RGB藍、綠、紅單色分別閃爍)03</h1>
- 在這裡會使用for loop以減少重覆的程式碼。<B>請與Arduino Coding 程式碼(RGB藍、綠、紅單色分別閃爍)01比較，你會發現儲存空間小了1%!!</B>。
+ 在這裡會使用for loop以減少重覆的程式碼。<B>請與Arduino Coding 程式碼(RGB藍、綠、紅單色分別閃爍)01比較，你會發現儲存空間小了1%!!</B>。有關FOR LOOP，可參考NOTES P.74-75。
 <pre><code>
 void setup() 
 {
