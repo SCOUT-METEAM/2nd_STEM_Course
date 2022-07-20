@@ -42,7 +42,7 @@ https://github.com/javl/image2cpp
 <p><p>
 如要將圖像在OLED上顯示，我們要將圖像轉化為數值，告知OLED顯示器那些地方有光，那些地方沒有。將圖像轉換成數值，可以使用上述image2cpp。<br>
 <br>
-在image2cpp網頁，選擇了圖片彼，在2及3使用以下轉圖設定: <br>
+在image2cpp網頁，選擇了圖片後，在2及3使用以下轉圖設定: <br>
  <B>2. Image Settings</B><br>
 Canvas size: 128 X 64<br>
 Background color: Black<br>
