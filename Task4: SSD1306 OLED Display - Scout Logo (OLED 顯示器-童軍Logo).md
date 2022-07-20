@@ -40,16 +40,16 @@ https://github.com/adafruit/Adafruit-GFX-Library
 <h1>Online image2cpp</h1>
 https://github.com/javl/image2cpp
 <p><p>
-如要將圖像在OLED上顯示，我們要將圖像轉化為數值，告知OLED顯示器那些地方有光，那些地方沒有。將圖像轉換成數值，可以使用上述image2cpp。
-
-在image2cpp網頁，選擇了圖片彼，在2及3使用以下轉圖設定: 
+如要將圖像在OLED上顯示，我們要將圖像轉化為數值，告知OLED顯示器那些地方有光，那些地方沒有。將圖像轉換成數值，可以使用上述image2cpp。<br>
+<br>
+在image2cpp網頁，選擇了圖片彼，在2及3使用以下轉圖設定: <br>
 2. Image Settings
 Canvas size: 128 X 64
 Background color: Black
 Invert Image colors: Yes 		
 Brightness: 128 
 Scaling: Scale to fit, keeping proportions
-
+<br>
 3. Output
 Code output format: Arduino code
 Draw mode: Horizontal - 1 bit per pixel 
