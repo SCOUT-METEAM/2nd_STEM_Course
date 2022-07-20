@@ -43,16 +43,16 @@ https://github.com/javl/image2cpp
 如要將圖像在OLED上顯示，我們要將圖像轉化為數值，告知OLED顯示器那些地方有光，那些地方沒有。將圖像轉換成數值，可以使用上述image2cpp。<br>
 <br>
 在image2cpp網頁，選擇了圖片彼，在2及3使用以下轉圖設定: <br>
-2. Image Settings
-Canvas size: 128 X 64
-Background color: Black
-Invert Image colors: Yes 		
-Brightness: 128 
-Scaling: Scale to fit, keeping proportions
+2. Image Settings<br>
+Canvas size: 128 X 64<br>
+Background color: Black<br>
+Invert Image colors: Yes 		<br>
+Brightness: 128 <br>
+Scaling: Scale to fit, keeping proportions<br>
 <br>
-3. Output
-Code output format: Arduino code
-Draw mode: Horizontal - 1 bit per pixel 
+3. Output<br>
+Code output format: Arduino code<br>
+Draw mode: Horizontal - 1 bit per pixel <br>
  
  
 大家可以DOWNLOAD他們的HTML檔案離線使用或到他們網址轉換。轉換後，將生成的一連串數值放在本將提供的程式內，有關數值需要放在以下程式碼的{ }內:<p><B>static const byte PROGMEM logo_draw[] ={ } </B><p>
