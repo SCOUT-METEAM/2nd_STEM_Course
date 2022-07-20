@@ -37,8 +37,8 @@ https://github.com/adafruit/Adafruit_SSD1306
 <br>
 https://github.com/adafruit/Adafruit-GFX-Library
 <br>
-<h1>Online image2cpp</h1>
-在GITHUB，會尋到這個image2cpp的工具(https://github.com/javl/image2cpp)，在裡面有個online版的image2cpp (http://javl.github.io/image2cpp)。大家可以在GITHUB直接download他們的HTML檔案使用，又或直接使用他們的online版。
+<h1>Online image2cpp</h1><br>
+在GITHUB，會尋到這個image2cpp的工具<br>(https://github.com/javl/image2cpp)<br>，在裡面有個online版的image2cpp (http://javl.github.io/image2cpp)。大家可以在GITHUB直接download他們的HTML檔案使用，又或直接使用他們的online版。
 <p><p>
 如要將圖像在OLED上顯示，我們要將圖像轉化為數值，告知OLED顯示器那些地方有光，那些地方沒有。將圖像轉換成數值，可以使用上述image2cpp。<br>
 <br>
