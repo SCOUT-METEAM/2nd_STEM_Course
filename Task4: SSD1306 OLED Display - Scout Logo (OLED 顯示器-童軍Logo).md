@@ -12,6 +12,9 @@
 5) 10CM 白色杜邦線 X 1<br>
 6) 10CM 灰色杜邦線 X 1<br>
 7) SSD1306 OLED 單色顯示器 X 1<br>
+
+ <B>參考資料</B><br>  
+ 氣象組Arduino參考書P.41-43, 182<br>  
  
 <h1>Connection Map 連接圖</h1><p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/OLED02.png"><P>
