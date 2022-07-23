@@ -32,6 +32,12 @@ https://github.com/adafruit/DHT-sensor-library
 <br>
 https://github.com/adafruit/Adafruit_Sensor
 <br>
+<B>方法3: 在Arduino IDE加入我們提供的Library </B><br> <br>
+在Arduino IDE按下Sketch/Include Library/Add .Zip Library..加入我們提供的Library
+<br>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AddLibrary01.png"><br><br>
+我們可以在 文件\Arduino\libraries檢查是否已加入上述Library<br><br>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AddLibrary02.png"><br><br> 
 <h1>Arduino Coding</h1>
 <br>
 以下CODING是來自Adafruit DHT Sensor Example，請同時對照Adafruit Example及Adafruit DHT11 Libraries檔案(DHT.h及DHT.cpp)一同學習。
