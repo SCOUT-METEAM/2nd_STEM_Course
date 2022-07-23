@@ -69,7 +69,9 @@ Draw mode: Horizontal - 1 bit per pixel <br>
 例子: logo_draw[ ] ={ }<p>
 再嚴格地說，這個Array是byte Array，因為每個數值在這個Array內是不大於byte的範圍，即<=255。但是在轉換後的數值是0X00, 0XC0...等，不是我們常見的數字呀?? 其實，讀者看到的0X00, 0XC0...等數值是電腦常用的十六進制(Hexadecimal)數值，只要將0X00轉換成我們常用的十進制(Decimal)，0X00就等於0。<p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/OLED002.png"><p>
-再深入些解釋，每個Array內數值是控制OLED顯示器上8個點。因為在上表，同樣可以轉換成二進制(binary)，即0及1。如0x12，就是0 0 0 1 0 0 1 0。那麼，便可知那個點是有光，那個點是沒有光。<p> 
+再深入些解釋，每個Array內數值是控制OLED顯示器上8個點。因為在上表，同樣可以轉換成二進制(binary)，即0及1。如0x12，就是0 0 0 1 0 0 1 0。那麼，便可知那個點是有光，那個點是沒有光。<p> <br>
+ <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/oled8bit.png"><p>
+ <br><br>
  另外，讀者還見到PROGMEM、static、const等<B>關鍵字</B>在這條Array前。<p> 
 PROGMEM: 指定Array放在flash (program) memory 內而不是記憶體SRAM內。<br> 
 const: 指是不變常數。<br> 
