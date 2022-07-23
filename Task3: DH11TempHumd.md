@@ -31,7 +31,7 @@
 https://github.com/adafruit/DHT-sensor-library
 <br>
 https://github.com/adafruit/Adafruit_Sensor
-<br>
+<br><br>
 <B>方法3: 在Arduino IDE加入我們提供的Library </B><br> <br>
 在Arduino IDE按下Sketch/Include Library/Add .Zip Library..加入我們提供的Library
 <br>
