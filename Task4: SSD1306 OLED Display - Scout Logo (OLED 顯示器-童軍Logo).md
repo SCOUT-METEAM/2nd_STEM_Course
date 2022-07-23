@@ -36,11 +36,11 @@ Please download following libraries and install it into Arduino IDE first.
 https://github.com/adafruit/Adafruit_SSD1306
 <br>
 https://github.com/adafruit/Adafruit-GFX-Library
-<br>
+<br><br>
 <B>方法3: 在Arduino IDE加入我們提供的Library </B><br> 
 在Arduino IDE按下Sketch/Include Library/Add .Zip Library..加入我們提供的Library
 <br>
-<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AddLibrary01.png"><br>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AddLibrary01.png"><br><br>
 我們可以在文件\Arduino\libraries檢查是否已加入上述Library<br>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AddLibrary02.png"><br>
 <h1>Online image2cpp</h1><br>
