@@ -39,9 +39,9 @@ https://github.com/adafruit/Adafruit-GFX-Library
 <br><br>
 <B>方法3: 在Arduino IDE加入我們提供的Library </B><br> 
 在Arduino IDE按下Sketch/Include Library/Add .Zip Library..加入我們提供的Library
-<br>
-<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AddLibrary01.png"><br><br>
-我們可以在文件\Arduino\libraries檢查是否已加入上述Library<br>
+<br><br>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AddLibrary01.png"><br><br><br>
+我們可以在 文件\Arduino\libraries檢查是否已加入上述Library<br>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AddLibrary02.png"><br>
 <h1>Online image2cpp</h1><br>
 在GITHUB，會尋到這個image2cpp的工具:https://github.com/javl/image2cpp<br>
