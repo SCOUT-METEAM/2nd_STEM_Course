@@ -75,8 +75,8 @@ Draw mode: Horizontal - 1 bit per pixel <br>
  另外，讀者還見到PROGMEM、static、const等<B>關鍵字</B>在這條Array前。<p> 
 PROGMEM: 指定Array放在flash (program) memory 內而不是記憶體SRAM內。<br> 
 const: 指是不變常數。<br> 
-static: 是指靜態，沒有變動。靜態建構函式只會執行一次，而該變數能在函式執行之後被保留下來。<br> 
-Ref: 氣象組Arduino參考書P.182 <br> 
+static: 是指靜態，沒有變動。靜態建構函式只會執行一次，而該變數能在函式執行之後被保留下來。<br> <br> 
+ <B>Ref: 氣象組Arduino參考書P.182 </B><br> 
 <p> 
 <h1>Arduino Coding</h1>
 <pre><code>
