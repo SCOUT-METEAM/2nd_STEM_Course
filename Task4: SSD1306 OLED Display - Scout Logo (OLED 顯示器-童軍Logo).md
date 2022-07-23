@@ -37,12 +37,12 @@ https://github.com/adafruit/Adafruit_SSD1306
 <br>
 https://github.com/adafruit/Adafruit-GFX-Library
 <br><br>
-<B>方法3: 在Arduino IDE加入我們提供的Library </B><br> 
+<B>方法3: 在Arduino IDE加入我們提供的Library </B><br> <br>
 在Arduino IDE按下Sketch/Include Library/Add .Zip Library..加入我們提供的Library
-<br><br>
-<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AddLibrary01.png"><br><br><br>
-我們可以在 文件\Arduino\libraries檢查是否已加入上述Library<br>
-<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AddLibrary02.png"><br>
+<br>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AddLibrary01.png"><br><br>
+我們可以在 文件\Arduino\libraries檢查是否已加入上述Library<br><br>
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/AddLibrary02.png"><br><br>
 <h1>Online image2cpp</h1><br>
 在GITHUB，會尋到這個image2cpp的工具:https://github.com/javl/image2cpp<br>
 在裡面有個online版的image2cpp http://javl.github.io/image2cpp ，大家可以在GITHUB直接download他們的HTML檔案使用，又或直接使用他們的online版。
