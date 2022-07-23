@@ -10,7 +10,8 @@
 4) 10CM 黑色杜邦線 X 1<br>
 5) 10CM 橙色杜邦線 X 1<br>
 6) DHT11 X 1<br>
- 
+ <B>參考資料:</B><br>  
+ 氣象組Arduino參考書P.37-39, 136-155<br>   
 <h1>Connection Map 連接圖</h1><p>
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/DHT11_Map.png"><p>
 <table><tr><td><B>Arduino UNO3</B></td><td><B>DHT11</B></td></tr>
