@@ -58,7 +58,7 @@ ScoutProg 是CLASS名稱，這CLASS名稱後加一個空格，之後就是物件
   </B>
 <h1>Library檔案.h及.cpp</h1><p>
 Library檔案有兩種，一種是.h另一種是.cpp。.h可以看成是一個目錄(主要是存放Class)，而.cpp可以是看成內容(主要是存放Outside Class Functions)。<p>
-現在，我們用<a href="https://www.sublimetext.com/">SUBLIME TEXT</a>打開Scout.h。從下圖中，可以看到有一個Class，名稱是ScoutProg。在建立物件時，我們會用到。而這個<B>ScoutProg </B>Class內可以看到有一個function，名稱是<B>meteam()</B>。<p> 
+小編用<a href="https://www.sublimetext.com/">SUBLIME TEXT</a>打開Scout.h。從下圖中，可以看到有一個Class，名稱是ScoutProg。在建立物件時，我們會用到。而這個<B>ScoutProg </B>Class內可以看到有一個function，名稱是<B>meteam()</B>。<p> 
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/classScout_h.png"><p> 
 至於這個function功能是甚麼，我們可以打開Scout.cpp看一看。。從下圖中，可以看到meteam() function內容。<p> 
 <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/classScout_cpp.png"><p>   
