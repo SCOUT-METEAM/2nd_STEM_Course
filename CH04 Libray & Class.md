@@ -58,11 +58,12 @@ ScoutProg 是CLASS名稱，這CLASS名稱後加一個空格，之後就是物件
   </B>
 <h1>Library檔案.h及.cpp</h1><p>
 Library檔案有兩種，一種是.h另一種是.cpp。.h可以看成是一個目錄(主要是存放Class)，而.cpp可以是看成內容(主要是存放Outside Class Functions)。<p>
+現在，我們用<a href="https://www.sublimetext.com/">SUBLIME TEXT</a>打開Scout.h。從下圖中，可以看到有一個Class，名稱是ScoutProg。在建立物件時，我們會用到。而這個<B>ScoutProg </B>Class內可以看到有一個function，名稱是<B>meteam()</B>。<p> 
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/classScout_h.png"><p> 
+至於這個function功能是甚麼，我們可以打開Scout.cpp看一看。。從下圖中，可以看到meteam() function內容。<p> 
+<img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/classScout_cpp.png"><p>   
+這個meteam() function功能是在Serial Monitor例印出文字。因此，當我們從ScoutProg Class建立物件後(上面Example Coding，這句ScoutProg met;)，便可以繼承此function。只要用物件名稱加.meteam()便可以。<B>注意，在使用Class 繼承時，第一樣要做的，是引入Library檔案，即上述Example Coding第一行。</B><p>
 
-由於本例子簡單，只有一個.h檔案。通常，當我們下載Library後，如果想直接看Class內容，會直接先看.h檔案。而本例子中，Library檔案名稱是Scout.h。<p>
-
-  現在，我們用<a href="https://www.sublimetext.com/">SUBLIME TEXT</a>打開Scout.h。從下圖中，可以看到有一個Class，名稱是ScoutProg。在建立物件時，我們會用到。而這個<B>ScoutProg </B>Class內可以看到有一個function，名稱是<B>meteam()</B>。這個function功能是例印出文字。因此，當我們從ScoutProg Class建立物件後(上面Example Coding，這句ScoutProg met;)，便可以繼承此function。只要用物件名稱加.meteam()便可以。<B>注意，在使用Class 繼承時，第一樣要做的，是引入Library檔案，即上述Example Coding第一行。</B><p>
- <img src="https://www.meteam.org/1st_STEM2022/GithubWebpage/Class05.png"><p>
 <h1>其它繼承例子</h1><p>
 以下是其它繼承例子，我們會以Adafruit DHT11及Adafruit OLED 的Library作例子。這兩個Libraries，我們會在今次的課堂中使用。以下會打開Library提供的Exampling Coding及直接打開Library檔案(在文件\Arduino\libraries內)。對初學者來說，看得明白Library提供的Example Coding已經十分好及足夠了! <p>Adafruit是世界其中一間大型open-source電子零件公司。而他們的Library好多時都適在Arduino或其它電子生產商所生產的同型號零件使用。<p>
 <B>1. Adafruit DHT11溫度濕度感應器Library。</B><p>
